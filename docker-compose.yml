@@ -1,0 +1,82 @@
+x-sa-password: &sa-password ${SA_PASSWORD:?Chua co file .env, hay chep .env.example thanh .env roi dien mat khau}
+
+services:
+  csdl:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: Developer
+      MSSQL_SA_PASSWORD: *sa-password
+    ports:
+      - "14333:1433"
+    volumes:
+      - csdl-data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -C -S localhost -U sa -P \"$$MSSQL_SA_PASSWORD\" -Q 'SELECT 1' -b -o /dev/null"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 20s
+
+  csdl-khoi-tao:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    depends_on:
+      csdl:
+        condition: service_healthy
+    environment:
+      SA_PASSWORD: *sa-password
+    volumes:
+      - ./CSDL:/csdl:ro
+    restart: "no"
+    entrypoint:
+      - /bin/bash
+      - -c
+      - |
+        SQLCMD="/opt/mssql-tools18/bin/sqlcmd -C -S csdl -U sa -P $$SA_PASSWORD"
+        DA_CO=$$($$SQLCMD -h -1 -W -Q "SET NOCOUNT ON; SELECT ISNULL(DB_ID('QuanLyHanMuc'), 0)" | tr -d '[:space:]')
+        if [ "$$DA_CO" = "0" ]; then
+          echo "Tao database QuanLyHanMuc tu file script..."
+          $$SQLCMD -I -f 65001 -i /csdl/QuanLyHanMuc.sql -o /tmp/ket-qua.txt || { tail -n 30 /tmp/ket-qua.txt; exit 1; }
+          echo "Xong."
+        else
+          echo "Database QuanLyHanMuc da co, giu nguyen du lieu."
+        fi
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:26.0
+    command: start-dev --import-realm
+    environment:
+      KC_BOOTSTRAP_ADMIN_USERNAME: admin
+      KC_BOOTSTRAP_ADMIN_PASSWORD: ${KEYCLOAK_ADMIN_PASSWORD:?Chua co file .env, hay chep .env.example thanh .env roi dien mat khau}
+      OIDC_CLIENT_SECRET: ${OIDC_CLIENT_SECRET:?Chua co file .env, hay chep .env.example thanh .env roi dien mat khau}
+      KC_HTTP_ENABLED: "true"
+      KC_HOSTNAME: http://localhost:8081
+      KC_HOSTNAME_BACKCHANNEL_DYNAMIC: "true"
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./keycloak:/opt/keycloak/data/import:ro
+
+  web:
+    build: .
+    depends_on:
+      csdl-khoi-tao:
+        condition: service_completed_successfully
+      keycloak:
+        condition: service_started
+    ports:
+      - "8080:8080"
+    environment:
+      ConnectionStrings__QuanLyHanMuc: "Server=csdl;Database=QuanLyHanMuc;User ID=sa;Password=${SA_PASSWORD};TrustServerCertificate=True"
+      XacThuc__CheDo: Oidc
+      XacThuc__Oidc__Authority: http://localhost:8081/realms/hanmuc
+      XacThuc__Oidc__MetadataAddress: http://keycloak:8080/realms/hanmuc/.well-known/openid-configuration
+      XacThuc__Oidc__ClientId: hanmuc-web
+      XacThuc__Oidc__ClientSecret: ${OIDC_CLIENT_SECRET}
+      XacThuc__Keycloak__AdminUrl: http://keycloak:8080
+      XacThuc__Keycloak__Realm: hanmuc
+      XacThuc__Keycloak__AdminUser: admin
+      XacThuc__Keycloak__AdminPassword: ${KEYCLOAK_ADMIN_PASSWORD}
+
+volumes:
+  csdl-data:

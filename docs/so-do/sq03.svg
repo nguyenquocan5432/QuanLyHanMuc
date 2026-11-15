@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1102" height="798" viewBox="9.2 -12.0 1102.2 798.4" font-family="Liberation Serif, Times New Roman, serif"><rect x="9.25" y="-12" width="1102.2421875" height="798.4000000000002" fill="#fff"/>
+<line x1="60.0" y1="40" x2="60.0" y2="774.4000000000002" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="60.0" cy="5.0" r="5.0" fill="#fff"/><line x1="60.0" y1="10.0" x2="60.0" y2="26.400000000000002"/><line x1="50.0" y1="15.0" x2="70.0" y2="15.0"/><line x1="60.0" y1="26.400000000000002" x2="50.0" y2="40"/><line x1="60.0" y1="26.400000000000002" x2="70.0" y2="40"/></g>
+<line x1="249.5" y1="40" x2="249.5" y2="774.4000000000002" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="224.5" y1="4" x2="224.5" y2="36" stroke="#000" stroke-width="1"/><line x1="224.5" y1="20" x2="233.5" y2="20" stroke="#000" stroke-width="1"/><circle cx="253.5" cy="20" r="16" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="483.328125" y1="40" x2="483.328125" y2="774.4000000000002" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="483.328125" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="489.328125,0 481.328125,5 489.328125,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="630.109375" y1="40" x2="630.109375" y2="774.4000000000002" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="630.109375" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="636.109375,0 628.109375,5 636.109375,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="834.328125" y1="40" x2="834.328125" y2="774.4000000000002" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="834.328125" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="817.328125" y1="38" x2="851.328125" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1053.828125" y1="40" x2="1053.828125" y2="774.4000000000002" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1053.828125" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1036.828125" y1="38" x2="1070.828125" y2="38" stroke="#000" stroke-width="1"/>
+<rect x="225.5" y="245.99999999999997" width="648.828125" height="342.4" fill="none" stroke="#000" stroke-width="1"/><polygon points="225.5,245.99999999999997 275.5,245.99999999999997 275.5,258.0 267.5,266.0 225.5,266.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<polyline points="60.0,115.2 244.5,115.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="244.5,115.2 234.5,111.2 234.5,119.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="254.5,146.4 478.3,146.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="478.3,146.4 468.3,142.4 468.3,150.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="488.3,177.6 625.1,177.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="625.1,177.6 615.1,173.6 615.1,181.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="635.1,222.0 829.3,222.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="829.3,222.0 819.3,218.0 819.3,226.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="829.3,295.2 635.1,295.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="645.1,300.2 635.1,295.2 645.1,290.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="625.1,326.4 488.3,326.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="498.3,331.4 488.3,326.4 498.3,321.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="478.3,357.6 254.5,357.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="264.5,362.6 254.5,357.6 264.5,352.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="839.3,408.8 869.3,408.8 869.3,430.8 839.3,430.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="839.3,430.8 849.3,434.8 849.3,426.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="839.3,497.2 869.3,497.2 869.3,519.2 839.3,519.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="839.3,519.2 849.3,523.2 849.3,515.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="839.3,542.4 869.3,542.4 869.3,564.4 839.3,564.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="839.3,564.4 849.3,568.4 849.3,560.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="839.3,613.6 1048.8,613.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1048.8,613.6 1038.8,609.6 1038.8,617.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="829.3,644.8 635.1,644.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="645.1,649.8 635.1,644.8 645.1,639.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="625.1,676.0 488.3,676.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="498.3,681.0 488.3,676.0 498.3,671.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="478.3,707.2 254.5,707.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="264.5,712.2 254.5,707.2 264.5,702.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="254.5,738.4 478.3,738.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="478.3,738.4 468.3,734.4 468.3,742.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="225.5,377.6 874.3,377.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<polyline points="225.5,452.8 874.3,452.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<rect x="244.5" y="109.2" width="10" height="637.2000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="478.328125" y="140.39999999999998" width="10" height="606.0000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="625.109375" y="171.59999999999997" width="10" height="512.4000000000001" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="829.328125" y="215.99999999999997" width="10" height="436.80000000000007" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1048.828125" y="607.6" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="23.2" y="42.0" width="73.5" height="28.8" fill="#fff"/><text x="60.0" y="53.2" font-size="12" text-anchor="middle">Người quản lý</text><text x="60.0" y="67.6" font-size="12" text-anchor="middle">hạn mức</text>
+<rect x="193.3" y="42.0" width="112.3" height="14.4" fill="#fff"/><text x="249.5" y="53.2" font-size="12" text-anchor="middle">DanhSachHanMuc.tsx</text>
+<rect x="435.7" y="42.0" width="95.3" height="14.4" fill="#fff"/><text x="483.3" y="53.2" font-size="12" text-anchor="middle">HanMucController</text>
+<rect x="589.1" y="42.0" width="82.0" height="14.4" fill="#fff"/><text x="630.1" y="53.2" font-size="12" text-anchor="middle">HanMucService</text>
+<rect x="811.3" y="42.0" width="46.0" height="14.4" fill="#fff"/><text x="834.3" y="53.2" font-size="12" text-anchor="middle">HanMuc</text>
+<rect x="1010.2" y="42.0" width="87.3" height="14.4" fill="#fff"/><text x="1053.8" y="53.2" font-size="12" text-anchor="middle">NhatKyHeThong</text>
+<text x="230.5" y="259.7" font-size="11">alt</text>
+<rect x="281.5" y="247.99999999999997" width="135.203125" height="16.0" fill="#fff"/>
+<text x="285.5" y="259.4" font-size="10">[Không có quyền với sinh viên]</text>
+<rect x="257.5" y="380.59999999999997" width="36.3125" height="16.0" fill="#fff"/>
+<text x="261.5" y="392.0" font-size="10">[Khóa]</text>
+<rect x="257.5" y="455.79999999999995" width="50.765625" height="16.0" fill="#fff"/>
+<text x="261.5" y="467.2" font-size="10">[Mở khóa]</text>
+<rect x="67.5" y="100.0" width="169.5" height="13.2" fill="#fff"/><text x="152.2" y="110.3" font-size="11" text-anchor="middle">Bấm Khóa (hoặc Mở khóa), xác nhận</text>
+<rect x="259.5" y="131.2" width="213.8" height="13.2" fill="#fff"/><text x="366.4" y="141.5" font-size="11" text-anchor="middle">POST /api/han-muc/{id}/khoa (hoặc /mo-khoa)</text>
+<rect x="493.3" y="162.4" width="126.8" height="13.2" fill="#fff"/><text x="556.7" y="172.7" font-size="11" text-anchor="middle">KhoaMoKhoa(toi, id, khoa)</text>
+<rect x="640.1" y="193.6" width="184.2" height="26.4" fill="#fff"/><text x="732.2" y="203.9" font-size="11" text-anchor="middle">sp_KhoaMoKhoaHanMuc: đọc dòng với</text><text x="732.2" y="217.1" font-size="11" text-anchor="middle">UPDLOCK, HOLDLOCK</text>
+<rect x="709.3" y="280.0" width="45.9" height="13.2" fill="#fff"/><text x="732.2" y="290.3" font-size="11" text-anchor="middle">lỗi 50034</text>
+<rect x="525.1" y="311.2" width="63.3" height="13.2" fill="#fff"/><text x="556.7" y="321.5" font-size="11" text-anchor="middle">SqlException</text>
+<rect x="340.9" y="342.4" width="50.9" height="13.2" fill="#fff"/><text x="366.4" y="352.7" font-size="11" text-anchor="middle">400 { loi }</text>
+<rect x="873.3" y="413.2" width="98.7" height="13.2" fill="#fff"/><text x="922.7" y="423.5" font-size="11" text-anchor="middle">TrangThai = Đã khóa</text>
+<rect x="873.3" y="495.0" width="156.8" height="26.4" fill="#fff"/><text x="951.7" y="505.3" font-size="11" text-anchor="middle">TrangThai = fn_TinhTrangThai(đã</text><text x="951.7" y="518.5" font-size="11" text-anchor="middle">chi, hạn mức, ngưỡng)</text>
+<rect x="873.3" y="546.8" width="151.1" height="13.2" fill="#fff"/><text x="948.9" y="557.1" font-size="11" text-anchor="middle">Trigger kiểm tra trùng kỳ (BR01)</text>
+<rect x="844.3" y="598.4" width="199.5" height="13.2" fill="#fff"/><text x="944.1" y="608.7" font-size="11" text-anchor="middle">ghi(hành động, trạng thái cũ, trạng thái mới)</text>
+<rect x="699.2" y="629.6" width="66.0" height="13.2" fill="#fff"/><text x="732.2" y="639.9" font-size="11" text-anchor="middle">trạng thái mới</text>
+<rect x="523.7" y="660.8" width="66.0" height="13.2" fill="#fff"/><text x="556.7" y="671.1" font-size="11" text-anchor="middle">trạng thái mới</text>
+<rect x="325.4" y="692.0" width="82.1" height="13.2" fill="#fff"/><text x="366.4" y="702.3" font-size="11" text-anchor="middle">200 { thongBao }</text>
+<rect x="282.8" y="723.2" width="167.2" height="13.2" fill="#fff"/><text x="366.4" y="733.5" font-size="11" text-anchor="middle">GET /api/han-muc (tải lại danh sách)</text>
+</svg>

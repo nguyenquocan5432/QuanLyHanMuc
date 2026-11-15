@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1087" height="488" viewBox="-12.0 -12.0 1087.0 488.0" font-family="Liberation Serif, Times New Roman, serif"><rect x="-12" y="-12.0" width="1087" height="488.0" fill="#fff"/>
+<polyline points="150.0,42.0 220.0,42.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="210.0,37.0 220.0,42.0 210.0,47.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="524.0,42.0 594.0,42.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="584.0,37.0 594.0,42.0 584.0,47.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="713.5,77.0 713.5,154.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="718.5,144.0 713.5,154.0 708.5,144.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="818.0,189.0 868.0,189.0 868.0,129.0 943.0,129.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="933.0,124.0 943.0,129.0 933.0,134.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="818.0,189.0 868.0,189.0 868.0,210.5 943.0,210.5" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="933.0,205.5 943.0,210.5 933.0,215.5" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="818.0,189.0 868.0,189.0 868.0,285.5 943.0,285.5" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="933.0,280.5 943.0,285.5 933.0,290.5" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="818.0,189.0 868.0,189.0 868.0,360.5 943.0,360.5" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="933.0,355.5 943.0,360.5 933.0,365.5" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="818.0,189.0 868.0,189.0 868.0,435.5 943.0,435.5" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="933.0,430.5 943.0,435.5 933.0,440.5" fill="none" stroke="#000" stroke-width="1"/>
+
+<rect x="0" y="0.0" width="150" height="84" fill="#fff" stroke="#000" stroke-width="1"/><line x1="0" y1="36.0" x2="150" y2="36.0" stroke="#000" stroke-width="1"/>
+<rect x="220" y="7.0" width="304" height="70" fill="#fff" stroke="#000" stroke-width="1"/><line x1="220" y1="43.0" x2="524" y2="43.0" stroke="#000" stroke-width="1"/>
+<rect x="594" y="7.0" width="239" height="70" fill="#fff" stroke="#000" stroke-width="1"/><line x1="594" y1="43.0" x2="833" y2="43.0" stroke="#000" stroke-width="1"/>
+<rect x="609.0" y="154" width="209" height="70" fill="#fff" stroke="#000" stroke-width="1"/><line x1="609.0" y1="190" x2="818.0" y2="190" stroke="#000" stroke-width="1"/>
+<rect x="943" y="94" width="120" height="70" fill="#fff" stroke="#000" stroke-width="1"/><line x1="943" y1="130" x2="1063" y2="130" stroke="#000" stroke-width="1"/>
+<rect x="943" y="182" width="120" height="57" fill="#fff" stroke="#000" stroke-width="1"/><line x1="943" y1="218" x2="1063" y2="218" stroke="#000" stroke-width="1"/>
+<rect x="943" y="257" width="120" height="57" fill="#fff" stroke="#000" stroke-width="1"/><line x1="943" y1="293" x2="1063" y2="293" stroke="#000" stroke-width="1"/>
+<rect x="943" y="332" width="120" height="57" fill="#fff" stroke="#000" stroke-width="1"/><line x1="943" y1="368" x2="1063" y2="368" stroke="#000" stroke-width="1"/>
+<rect x="943" y="407" width="120" height="57" fill="#fff" stroke="#000" stroke-width="1"/><line x1="943" y1="443" x2="1063" y2="443" stroke="#000" stroke-width="1"/>
+<text x="75.0" y="15.1" font-size="11" text-anchor="middle">«boundary»</text><text x="75.0" y="28.3" font-size="11" text-anchor="middle" font-weight="bold">DuyetNgoaiLe.tsx</text>
+<text x="4.0" y="50.3" font-size="11">+ danh sách chờ duyệt</text><text x="4.0" y="63.5" font-size="11">+ ô ghi chú</text><text x="4.0" y="76.7" font-size="11">+ Duyệt, Từ chối</text>
+<text x="372.0" y="22.1" font-size="11" text-anchor="middle">«control»</text><text x="372.0" y="35.3" font-size="11" text-anchor="middle" font-weight="bold">NgoaiLeController</text>
+<text x="224.0" y="57.3" font-size="11">+ ChoDuyet(): IActionResult</text><text x="224.0" y="70.5" font-size="11">+ XuLy(maYeuCau, y: XuLyNgoaiLeYeuCau): IActionResult</text>
+<text x="713.5" y="22.1" font-size="11" text-anchor="middle">«control»</text><text x="713.5" y="35.3" font-size="11" text-anchor="middle" font-weight="bold">NgoaiLeService</text>
+<text x="598.0" y="57.3" font-size="11">+ LayDanhSachChoDuyet(toi): DataTable</text><text x="598.0" y="70.5" font-size="11">+ XuLy(toi, maYeuCau, dongY, ghiChu): string</text>
+<text x="713.5" y="169.1" font-size="11" text-anchor="middle">«data access»</text><text x="713.5" y="182.3" font-size="11" text-anchor="middle" font-weight="bold">KetNoi</text>
+<text x="613.0" y="204.3" font-size="11">+ GoiProcedure(ten, thamSo): DataTable</text><text x="613.0" y="217.5" font-size="11">+ TruyVan(sql, thamSo): DataTable</text>
+<text x="1003.0" y="109.1" font-size="11" text-anchor="middle">«entity»</text><text x="1003.0" y="122.3" font-size="11" text-anchor="middle" font-weight="bold">YeuCauNgoaiLe</text>
+<text x="947.0" y="144.3" font-size="11">+ duyet()</text><text x="947.0" y="157.5" font-size="11">+ tuChoi()</text>
+<text x="1003.0" y="197.1" font-size="11" text-anchor="middle">«entity»</text><text x="1003.0" y="210.3" font-size="11" text-anchor="middle" font-weight="bold">GiaoDich</text>
+<text x="947.0" y="232.3" font-size="11"> </text>
+<text x="1003.0" y="272.1" font-size="11" text-anchor="middle">«entity»</text><text x="1003.0" y="285.3" font-size="11" text-anchor="middle" font-weight="bold">HanMuc</text>
+<text x="947.0" y="307.3" font-size="11">+ tinhTrangThai()</text>
+<text x="1003.0" y="347.1" font-size="11" text-anchor="middle">«entity»</text><text x="1003.0" y="360.3" font-size="11" text-anchor="middle" font-weight="bold">ThongBao</text>
+<text x="947.0" y="382.3" font-size="11">+ tao()</text>
+<text x="1003.0" y="422.1" font-size="11" text-anchor="middle">«entity»</text><text x="1003.0" y="435.3" font-size="11" text-anchor="middle" font-weight="bold">NhatKyHeThong</text>
+<text x="947.0" y="457.3" font-size="11">+ ghi()</text>
+<rect x="167.6" y="26.0" width="34.8" height="12.0" fill="#fff"/><text x="185.0" y="35.4" font-size="10" text-anchor="middle">gọi API</text>
+</svg>

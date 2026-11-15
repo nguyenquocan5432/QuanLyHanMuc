@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1097" height="491" viewBox="9.2 -12.0 1097.3 490.8" font-family="Liberation Serif, Times New Roman, serif"><rect x="9.25" y="-12" width="1097.34375" height="490.7999999999999" fill="#fff"/>
+<line x1="60.0" y1="40" x2="60.0" y2="466.7999999999999" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="60.0" cy="5.0" r="5.0" fill="#fff"/><line x1="60.0" y1="10.0" x2="60.0" y2="26.400000000000002"/><line x1="50.0" y1="15.0" x2="70.0" y2="15.0"/><line x1="60.0" y1="26.400000000000002" x2="50.0" y2="40"/><line x1="60.0" y1="26.400000000000002" x2="70.0" y2="40"/></g>
+<line x1="290.015625" y1="40" x2="290.015625" y2="466.7999999999999" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="265.015625" y1="4" x2="265.015625" y2="36" stroke="#000" stroke-width="1"/><line x1="265.015625" y1="20" x2="274.015625" y2="20" stroke="#000" stroke-width="1"/><circle cx="294.015625" cy="20" r="16" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="508.859375" y1="40" x2="508.859375" y2="466.7999999999999" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="508.859375" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="514.859375,0 506.859375,5 514.859375,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="654.21875" y1="40" x2="654.21875" y2="466.7999999999999" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="654.21875" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="660.21875,0 652.21875,5 660.21875,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="880.65625" y1="40" x2="880.65625" y2="466.7999999999999" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="880.65625" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="863.65625" y1="38" x2="897.65625" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1069.59375" y1="40" x2="1069.59375" y2="466.7999999999999" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1069.59375" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1052.59375" y1="38" x2="1086.59375" y2="38" stroke="#000" stroke-width="1"/>
+<polyline points="60.0,128.4 285.0,128.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="285.0,128.4 275.0,124.4 275.0,132.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="295.0,172.8 503.9,172.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="503.9,172.8 493.9,168.8 493.9,176.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="513.9,204.0 649.2,204.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="649.2,204.0 639.2,200.0 639.2,208.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="659.2,248.4 875.7,248.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="875.7,248.4 865.7,244.4 865.7,252.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="885.7,292.8 1064.6,292.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1064.6,292.8 1054.6,288.8 1054.6,296.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="875.7,337.2 659.2,337.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="669.2,342.2 659.2,337.2 669.2,332.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="649.2,368.4 513.9,368.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="523.9,373.4 513.9,368.4 523.9,363.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.9,399.6 295.0,399.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="305.0,404.6 295.0,399.6 305.0,394.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="285.0,430.8 60.0,430.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="70.0,435.8 60.0,430.8 70.0,425.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<rect x="285.015625" y="122.4" width="10" height="316.39999999999986" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="503.859375" y="166.8" width="10" height="240.7999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="649.21875" y="198.0" width="10" height="178.39999999999992" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="875.65625" y="242.4" width="10" height="102.79999999999993" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1064.59375" y="286.79999999999995" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="23.2" y="42.0" width="73.5" height="28.8" fill="#fff"/><text x="60.0" y="53.2" font-size="12" text-anchor="middle">Người quản lý</text><text x="60.0" y="67.6" font-size="12" text-anchor="middle">hạn mức</text>
+<rect x="260.2" y="42.0" width="59.7" height="14.4" fill="#fff"/><text x="290.0" y="53.2" font-size="12" text-anchor="middle">BaoCao.tsx</text>
+<rect x="462.9" y="42.0" width="92.0" height="14.4" fill="#fff"/><text x="508.9" y="53.2" font-size="12" text-anchor="middle">BaoCaoController</text>
+<rect x="614.9" y="42.0" width="78.6" height="14.4" fill="#fff"/><text x="654.2" y="53.2" font-size="12" text-anchor="middle">BaoCaoService</text>
+<rect x="840.4" y="42.0" width="80.6" height="14.4" fill="#fff"/><text x="880.7" y="53.2" font-size="12" text-anchor="middle">NhatKyViPham</text>
+<rect x="1046.6" y="42.0" width="46.0" height="14.4" fill="#fff"/><text x="1069.6" y="53.2" font-size="12" text-anchor="middle">HanMuc</text>
+<rect x="67.5" y="100.0" width="210.0" height="26.4" fill="#fff"/><text x="172.5" y="110.3" font-size="11" text-anchor="middle">Chọn tab Vi phạm hạn mức, khoảng ngày, sinh</text><text x="172.5" y="123.5" font-size="11" text-anchor="middle">viên (không bắt buộc)</text>
+<rect x="300.0" y="144.4" width="198.8" height="26.4" fill="#fff"/><text x="399.4" y="154.7" font-size="11" text-anchor="middle">GET</text><text x="399.4" y="167.9" font-size="11" text-anchor="middle">/api/bao-cao/vi-pham?tu&amp;den&amp;maSinhVien</text>
+<rect x="518.9" y="188.8" width="125.4" height="13.2" fill="#fff"/><text x="581.5" y="199.1" font-size="11" text-anchor="middle">ViPham(toi, maSV, tu, den)</text>
+<rect x="682.0" y="220.0" width="170.9" height="26.4" fill="#fff"/><text x="767.4" y="230.3" font-size="11" text-anchor="middle">SELECT trong khoảng ngày (chỉ mục</text><text x="767.4" y="243.5" font-size="11" text-anchor="middle">IX_NhatKyViPham_BaoCao)</text>
+<rect x="890.7" y="264.4" width="168.9" height="26.4" fill="#fff"/><text x="975.1" y="274.7" font-size="11" text-anchor="middle">nối HanMuc, NguoiDung, DanhMuc,</text><text x="975.1" y="287.9" font-size="11" text-anchor="middle">fn_CoQuyenQuanLy = 1</text>
+<rect x="664.2" y="308.8" width="206.4" height="26.4" fill="#fff"/><text x="767.4" y="319.1" font-size="11" text-anchor="middle">ngày, sinh viên, danh mục, số định chi, số còn</text><text x="767.4" y="332.3" font-size="11" text-anchor="middle">lại, kết quả</text>
+<rect x="521.7" y="353.2" width="119.8" height="13.2" fill="#fff"/><text x="581.5" y="363.5" font-size="11" text-anchor="middle">DataTable, mới nhất trước</text>
+<rect x="364.6" y="384.4" width="69.7" height="13.2" fill="#fff"/><text x="399.4" y="394.7" font-size="11" text-anchor="middle">JSON: viPham</text>
+<rect x="139.6" y="415.6" width="65.7" height="13.2" fill="#fff"/><text x="172.5" y="425.9" font-size="11" text-anchor="middle">Bảng vi phạm</text>
+</svg>

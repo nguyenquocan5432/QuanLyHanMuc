@@ -1,0 +1,113 @@
+{
+  "realm": "hanmuc",
+  "enabled": true,
+  "displayName": "Hệ thống kiểm soát hạn mức mua sắm",
+  "sslRequired": "none",
+  "registrationAllowed": false,
+  "loginWithEmailAllowed": false,
+  "resetPasswordAllowed": false,
+  "editUsernameAllowed": false,
+  "clients": [
+    {
+      "clientId": "hanmuc-web",
+      "name": "Ứng dụng web quản lý hạn mức",
+      "enabled": true,
+      "protocol": "openid-connect",
+      "publicClient": false,
+      "secret": "${OIDC_CLIENT_SECRET}",
+      "standardFlowEnabled": true,
+      "implicitFlowEnabled": false,
+      "directAccessGrantsEnabled": false,
+      "serviceAccountsEnabled": false,
+      "redirectUris": [
+        "http://localhost:8080/signin-oidc",
+        "http://localhost:5080/signin-oidc"
+      ],
+      "webOrigins": [
+        "http://localhost:8080",
+        "http://localhost:5080"
+      ],
+      "attributes": {
+        "pkce.code.challenge.method": "S256",
+        "post.logout.redirect.uris": "http://localhost:8080/*##http://localhost:5080/*"
+      }
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "enabled": true,
+      "emailVerified": true,
+      "firstName": "viên",
+      "lastName": "Quản trị",
+      "email": "admin@hanmuc.local",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "123456",
+          "temporary": false
+        }
+      ]
+    },
+    {
+      "username": "phuhuynh1",
+      "enabled": true,
+      "emailVerified": true,
+      "firstName": "Hùng",
+      "lastName": "Lê Văn",
+      "email": "phuhuynh1@hanmuc.local",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "123456",
+          "temporary": false
+        }
+      ]
+    },
+    {
+      "username": "sinhvien1",
+      "enabled": true,
+      "emailVerified": true,
+      "firstName": "Khoa",
+      "lastName": "Lê Minh",
+      "email": "sinhvien1@hanmuc.local",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "123456",
+          "temporary": false
+        }
+      ]
+    },
+    {
+      "username": "sinhvien2",
+      "enabled": true,
+      "emailVerified": true,
+      "firstName": "Hà",
+      "lastName": "Trần Thu",
+      "email": "sinhvien2@hanmuc.local",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "123456",
+          "temporary": false
+        }
+      ]
+    },
+    {
+      "username": "tuquanly1",
+      "enabled": true,
+      "emailVerified": true,
+      "firstName": "Bình",
+      "lastName": "Nguyễn An",
+      "email": "tuquanly1@hanmuc.local",
+      "credentials": [
+        {
+          "type": "password",
+          "value": "123456",
+          "temporary": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1289" height="1028" viewBox="21.2 -12.0 1288.7 1028.4" font-family="Liberation Serif, Times New Roman, serif"><rect x="21.171875" y="-12" width="1288.65625" height="1028.4000000000005" fill="#fff"/>
+<line x1="60.0" y1="40" x2="60.0" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="60.0" cy="5.0" r="5.0" fill="#fff"/><line x1="60.0" y1="10.0" x2="60.0" y2="26.400000000000002"/><line x1="50.0" y1="15.0" x2="70.0" y2="15.0"/><line x1="60.0" y1="26.400000000000002" x2="50.0" y2="40"/><line x1="60.0" y1="26.400000000000002" x2="70.0" y2="40"/></g>
+<line x1="263.78125" y1="40" x2="263.78125" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="238.78125" y1="4" x2="238.78125" y2="36" stroke="#000" stroke-width="1"/><line x1="238.78125" y1="20" x2="247.78125" y2="20" stroke="#000" stroke-width="1"/><circle cx="267.78125" cy="20" r="16" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="427.5625" y1="40" x2="427.5625" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="427.5625" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="433.5625,0 425.5625,5 433.5625,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="550.1875" y1="40" x2="550.1875" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="550.1875" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="556.1875,0 548.1875,5 556.1875,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="770.59375" y1="40" x2="770.59375" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="770.59375" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="753.59375" y1="38" x2="787.59375" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="938.5" y1="40" x2="938.5" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="938.5" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="921.5" y1="38" x2="955.5" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1048.5" y1="40" x2="1048.5" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1048.5" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1031.5" y1="38" x2="1065.5" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1158.5" y1="40" x2="1158.5" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1158.5" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1141.5" y1="38" x2="1175.5" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1268.5" y1="40" x2="1268.5" y2="1004.4000000000004" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1268.5" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1251.5" y1="38" x2="1285.5" y2="38" stroke="#000" stroke-width="1"/>
+<rect x="526.1875" y="259.2" width="766.3125" height="576.4000000000003" fill="none" stroke="#000" stroke-width="1"/><polygon points="526.1875,259.2 576.1875,259.2 576.1875,271.2 568.1875,279.2 526.1875,279.2" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="754.59375" y="717.2000000000002" width="529.90625" height="71.20000000000005" fill="none" stroke="#000" stroke-width="1"/><polygon points="754.59375,717.2000000000002 804.59375,717.2000000000002 804.59375,729.2000000000002 796.59375,737.2000000000002 754.59375,737.2000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<polyline points="60.0,115.2 258.8,115.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="258.8,115.2 248.8,111.2 248.8,119.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="268.8,159.6 422.6,159.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="422.6,159.6 412.6,155.6 412.6,163.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="432.6,190.8 545.2,190.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="545.2,190.8 535.2,186.8 535.2,194.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="555.2,235.2 765.6,235.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="765.6,235.2 755.6,231.2 755.6,239.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="765.6,308.4 555.2,308.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="565.2,313.4 555.2,308.4 565.2,303.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,369.6 1153.5,369.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1153.5,369.6 1143.5,365.6 1143.5,373.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="765.6,400.8 555.2,400.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="565.2,405.8 555.2,400.8 565.2,395.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,462.0 933.5,462.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="933.5,462.0 923.5,458.0 923.5,466.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,493.2 1043.5,493.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1043.5,493.2 1033.5,489.2 1033.5,497.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,524.4 1153.5,524.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1153.5,524.4 1143.5,520.4 1143.5,528.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,555.6 1263.5,555.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1263.5,555.6 1253.5,551.6 1253.5,559.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="765.6,586.8 555.2,586.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="565.2,591.8 555.2,586.8 565.2,581.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,648.0 933.5,648.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="933.5,648.0 923.5,644.0 923.5,652.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,669.2 805.6,669.2 805.6,691.2 775.6,691.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="775.6,691.2 785.6,695.2 785.6,687.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,766.4 1263.5,766.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1263.5,766.4 1253.5,762.4 1253.5,770.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="765.6,813.6 555.2,813.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="565.2,818.6 555.2,813.6 565.2,808.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="775.6,850.8 805.6,850.8 805.6,872.8 775.6,872.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="775.6,872.8 785.6,876.8 785.6,868.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="545.2,906.0 432.6,906.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="442.6,911.0 432.6,906.0 442.6,901.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="422.6,937.2 268.8,937.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="278.8,942.2 268.8,937.2 278.8,932.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="258.8,968.4 60.0,968.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="70.0,973.4 60.0,968.4 70.0,963.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="526.2,328.4 1292.5,328.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<polyline points="526.2,420.8 1292.5,420.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<polyline points="526.2,606.8 1292.5,606.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<rect x="258.78125" y="109.2" width="10" height="867.2000000000004" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="422.5625" y="153.6" width="10" height="791.6000000000004" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="545.1875" y="184.79999999999998" width="10" height="729.2000000000004" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="765.59375" y="229.2" width="10" height="651.6000000000004" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1153.5" y="363.59999999999997" width="10" height="168.8" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="933.5" y="455.99999999999994" width="10" height="200.00000000000017" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1043.5" y="487.19999999999993" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1263.5" y="549.6" width="10" height="224.80000000000018" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="35.2" y="42.0" width="49.7" height="14.4" fill="#fff"/><text x="60.0" y="53.2" font-size="12" text-anchor="middle">Sinh viên</text>
+<rect x="217.0" y="42.0" width="93.7" height="14.4" fill="#fff"/><text x="263.8" y="53.2" font-size="12" text-anchor="middle">NhapGiaoDich.tsx</text>
+<rect x="377.6" y="42.0" width="100.0" height="14.4" fill="#fff"/><text x="427.6" y="53.2" font-size="12" text-anchor="middle">GiaoDichController</text>
+<rect x="506.9" y="42.0" width="86.6" height="14.4" fill="#fff"/><text x="550.2" y="53.2" font-size="12" text-anchor="middle">GiaoDichService</text>
+<rect x="747.6" y="42.0" width="46.0" height="14.4" fill="#fff"/><text x="770.6" y="53.2" font-size="12" text-anchor="middle">HanMuc</text>
+<rect x="913.2" y="42.0" width="50.7" height="14.4" fill="#fff"/><text x="938.5" y="53.2" font-size="12" text-anchor="middle">GiaoDich</text>
+<rect x="1006.4" y="42.0" width="84.1" height="14.4" fill="#fff"/><text x="1048.5" y="53.2" font-size="12" text-anchor="middle">YeuCauNgoaiLe</text>
+<rect x="1118.2" y="42.0" width="80.6" height="14.4" fill="#fff"/><text x="1158.5" y="53.2" font-size="12" text-anchor="middle">NhatKyViPham</text>
+<rect x="1241.2" y="42.0" width="54.7" height="14.4" fill="#fff"/><text x="1268.5" y="53.2" font-size="12" text-anchor="middle">ThongBao</text>
+<text x="531.2" y="272.9" font-size="11">alt</text>
+<rect x="582.1875" y="261.2" width="169.34375" height="16.0" fill="#fff"/>
+<text x="586.2" y="272.6" font-size="10">[Không có hạn mức / hạn mức Đã khóa]</text>
+<rect x="558.1875" y="331.4" width="123.125" height="16.0" fill="#fff"/>
+<text x="562.2" y="342.8" font-size="10">[Vượt 100%, hạn mức cứng]</text>
+<rect x="558.1875" y="423.79999999999995" width="123.265625" height="16.0" fill="#fff"/>
+<text x="562.2" y="435.2" font-size="10">[Vượt 100%, hạn mức mềm]</text>
+<rect x="558.1875" y="609.8000000000001" width="88.6875" height="16.0" fill="#fff"/>
+<text x="562.2" y="621.2" font-size="10">[Không vượt 100%]</text>
+<text x="759.6" y="730.9" font-size="11">opt</text>
+<rect x="810.59375" y="719.2000000000002" width="131.46875" height="16.0" fill="#fff"/>
+<text x="814.6" y="730.6" font-size="10">[Vừa sang Sắp vượt / Đã vượt]</text>
+<rect x="125.3" y="100.0" width="68.2" height="13.2" fill="#fff"/><text x="159.4" y="110.3" font-size="11" text-anchor="middle">Bấm Ghi nhận</text>
+<rect x="280.7" y="131.2" width="130.0" height="26.4" fill="#fff"/><text x="345.7" y="141.5" font-size="11" text-anchor="middle">POST /api/giao-dich (JSON,</text><text x="345.7" y="154.7" font-size="11" text-anchor="middle">X-XSRF-TOKEN)</text>
+<rect x="437.6" y="175.6" width="102.6" height="13.2" fill="#fff"/><text x="488.9" y="185.9" font-size="11" text-anchor="middle">GhiNhanGiaoDich(...)</text>
+<rect x="560.2" y="206.8" width="200.4" height="26.4" fill="#fff"/><text x="660.4" y="217.1" font-size="11" text-anchor="middle">sp_GhiNhanGiaoDich: mở transaction, khóa</text><text x="660.4" y="230.3" font-size="11" text-anchor="middle">dòng hạn mức</text>
+<rect x="641.2" y="293.2" width="38.4" height="13.2" fill="#fff"/><text x="660.4" y="303.5" font-size="11" text-anchor="middle">Từ chối</text>
+<rect x="922.8" y="354.4" width="83.6" height="13.2" fill="#fff"/><text x="964.5" y="364.7" font-size="11" text-anchor="middle">ghiNhan(Từ chối)</text>
+<rect x="617.4" y="385.6" width="86.0" height="13.2" fill="#fff"/><text x="660.4" y="395.9" font-size="11" text-anchor="middle">Từ chối, số còn lại</text>
+<rect x="807.0" y="446.8" width="95.0" height="13.2" fill="#fff"/><text x="854.5" y="457.1" font-size="11" text-anchor="middle">ghiNhan(Chờ duyệt)</text>
+<rect x="859.9" y="478.0" width="99.3" height="13.2" fill="#fff"/><text x="909.5" y="488.3" font-size="11" text-anchor="middle">taoMoi(maGiaoDich)</text>
+<rect x="908.4" y="509.2" width="112.3" height="13.2" fill="#fff"/><text x="964.5" y="519.5" font-size="11" text-anchor="middle">ghiNhan(Gửi chờ duyệt)</text>
+<rect x="951.0" y="540.4" width="137.2" height="13.2" fill="#fff"/><text x="1019.5" y="550.7" font-size="11" text-anchor="middle">tao(người cấp, Yêu cầu duyệt)</text>
+<rect x="635.5" y="571.6" width="49.8" height="13.2" fill="#fff"/><text x="660.4" y="581.9" font-size="11" text-anchor="middle">Chờ duyệt</text>
+<rect x="815.0" y="632.8" width="79.1" height="13.2" fill="#fff"/><text x="854.5" y="643.1" font-size="11" text-anchor="middle">ghiNhan(Hợp lệ)</text>
+<rect x="809.6" y="673.6" width="121.9" height="13.2" fill="#fff"/><text x="870.5" y="683.9" font-size="11" text-anchor="middle">cộng đã chi, tính trạng thái</text>
+<rect x="944.1" y="751.2" width="151.0" height="13.2" fill="#fff"/><text x="1019.5" y="761.5" font-size="11" text-anchor="middle">tao(sinh viên, Ngưỡng / Đã vượt)</text>
+<rect x="584.5" y="798.4" width="151.8" height="13.2" fill="#fff"/><text x="660.4" y="808.7" font-size="11" text-anchor="middle">Chấp nhận (có thể kèm cảnh báo)</text>
+<rect x="809.6" y="855.2" width="49.2" height="13.2" fill="#fff"/><text x="834.2" y="865.5" font-size="11" text-anchor="middle">COMMIT</text>
+<rect x="449.6" y="890.8" width="78.5" height="13.2" fill="#fff"/><text x="488.9" y="901.1" font-size="11" text-anchor="middle">KetQuaGhiNhan</text>
+<rect x="273.8" y="922.0" width="143.8" height="13.2" fill="#fff"/><text x="345.7" y="932.3" font-size="11" text-anchor="middle">200 { ketQua, thongBao, muc }</text>
+<rect x="67.5" y="953.2" width="183.8" height="13.2" fill="#fff"/><text x="159.4" y="963.5" font-size="11" text-anchor="middle">hộp báo xanh / vàng / đỏ, tải lại hạn mức</text>
+</svg>

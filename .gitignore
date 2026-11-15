@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+client/node_modules/
+TestResults/
+_to_delete/
+
+appsettings.json
+appsettings.Development.json
+.env
+_CaiDocker_O_D.bat
+*.log
+~$*
+_banco/

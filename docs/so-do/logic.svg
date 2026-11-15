@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1269" height="610" viewBox="-12.0 14.0 1269.5 610.0" font-family="Liberation Serif, Times New Roman, serif"><rect x="-12" y="14" width="1269.484375" height="610" fill="#fff"/>
+<rect x="691.09375" y="40" width="204.5625" height="206" fill="#fff" stroke="#000" stroke-width="1"/><line x1="691.09375" y1="66" x2="895.65625" y2="66" stroke="#000" stroke-width="1"/>
+<rect x="0" y="40" width="196.984375" height="106" fill="#fff" stroke="#000" stroke-width="1"/><line x1="0" y1="66" x2="196.984375" y2="66" stroke="#000" stroke-width="1"/>
+<rect x="346.984375" y="40" width="188.0625" height="286" fill="#fff" stroke="#000" stroke-width="1"/><line x1="346.984375" y1="66" x2="535.046875" y2="66" stroke="#000" stroke-width="1"/>
+<rect x="346.984375" y="386" width="194.109375" height="226" fill="#fff" stroke="#000" stroke-width="1"/><line x1="346.984375" y1="412" x2="541.09375" y2="412" stroke="#000" stroke-width="1"/>
+<rect x="691.09375" y="306" width="194.75" height="166" fill="#fff" stroke="#000" stroke-width="1"/><line x1="691.09375" y1="332" x2="885.84375" y2="332" stroke="#000" stroke-width="1"/>
+<rect x="0" y="206" width="192.34375" height="146" fill="#fff" stroke="#000" stroke-width="1"/><line x1="0" y1="232" x2="192.34375" y2="232" stroke="#000" stroke-width="1"/>
+<rect x="1045.65625" y="40" width="182.5625" height="186" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1045.65625" y1="66" x2="1228.21875" y2="66" stroke="#000" stroke-width="1"/>
+<rect x="1045.65625" y="286" width="199.828125" height="186" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1045.65625" y1="312" x2="1245.484375" y2="312" stroke="#000" stroke-width="1"/>
+<polyline points="895.7,196.0 913.7,196.0 913.7,70.0 895.7,70.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="902.7" y1="76.0" x2="902.7" y2="64.0" stroke="#000" stroke-width="1"/><circle cx="910.7" cy="70.0" r="4" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="905.7" y1="196.0" x2="895.7" y2="202.0" stroke="#000" stroke-width="1"/><line x1="905.7" y1="196.0" x2="895.7" y2="190.0" stroke="#000" stroke-width="1"/>
+<polyline points="535.0,96.0 559.1,96.0 559.1,71.0 691.1,71.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="684.1" y1="65.0" x2="684.1" y2="77.0" stroke="#000" stroke-width="1"/><line x1="679.1" y1="65.0" x2="679.1" y2="77.0" stroke="#000" stroke-width="1"/>
+<line x1="545.0" y1="96.0" x2="535.0" y2="102.0" stroke="#000" stroke-width="1"/><line x1="545.0" y1="96.0" x2="535.0" y2="90.0" stroke="#000" stroke-width="1"/>
+<polyline points="535.0,276.0 577.1,276.0 577.1,76.0 691.1,76.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="684.1" y1="70.0" x2="684.1" y2="82.0" stroke="#000" stroke-width="1"/><line x1="679.1" y1="70.0" x2="679.1" y2="82.0" stroke="#000" stroke-width="1"/>
+<line x1="545.0" y1="276.0" x2="535.0" y2="282.0" stroke="#000" stroke-width="1"/><line x1="545.0" y1="276.0" x2="535.0" y2="270.0" stroke="#000" stroke-width="1"/>
+<polyline points="347.0,116.0 215.0,116.0 215.0,76.0 197.0,76.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="204.0" y1="82.0" x2="204.0" y2="70.0" stroke="#000" stroke-width="1"/><line x1="209.0" y1="82.0" x2="209.0" y2="70.0" stroke="#000" stroke-width="1"/>
+<line x1="337.0" y1="116.0" x2="347.0" y2="110.0" stroke="#000" stroke-width="1"/><line x1="337.0" y1="116.0" x2="347.0" y2="122.0" stroke="#000" stroke-width="1"/>
+<polyline points="541.1,442.0 595.1,442.0 595.1,72.7 535.0,72.7" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="542.0" y1="78.7" x2="542.0" y2="66.7" stroke="#000" stroke-width="1"/><line x1="547.0" y1="78.7" x2="547.0" y2="66.7" stroke="#000" stroke-width="1"/>
+<line x1="551.1" y1="442.0" x2="541.1" y2="448.0" stroke="#000" stroke-width="1"/><line x1="551.1" y1="442.0" x2="541.1" y2="436.0" stroke="#000" stroke-width="1"/>
+<polyline points="541.1,582.0 613.1,582.0 613.1,81.0 691.1,81.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="684.1" y1="75.0" x2="684.1" y2="87.0" stroke="#000" stroke-width="1"/><circle cx="676.1" cy="81.0" r="4" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="551.1" y1="582.0" x2="541.1" y2="588.0" stroke="#000" stroke-width="1"/><line x1="551.1" y1="582.0" x2="541.1" y2="576.0" stroke="#000" stroke-width="1"/>
+<polyline points="691.1,362.0 631.1,362.0 631.1,422.0 541.1,422.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="548.1" y1="428.0" x2="548.1" y2="416.0" stroke="#000" stroke-width="1"/><line x1="553.1" y1="428.0" x2="553.1" y2="416.0" stroke="#000" stroke-width="1"/>
+<line x1="683.1" y1="356.0" x2="683.1" y2="368.0" stroke="#000" stroke-width="1"/>
+<polyline points="885.8,382.0 931.7,382.0 931.7,74.0 895.7,74.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="902.7" y1="80.0" x2="902.7" y2="68.0" stroke="#000" stroke-width="1"/><circle cx="910.7" cy="74.0" r="4" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="895.8" y1="382.0" x2="885.8" y2="388.0" stroke="#000" stroke-width="1"/><line x1="895.8" y1="382.0" x2="885.8" y2="376.0" stroke="#000" stroke-width="1"/>
+<polyline points="192.3,262.0 233.0,262.0 233.0,76.0 347.0,76.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="340.0" y1="70.0" x2="340.0" y2="82.0" stroke="#000" stroke-width="1"/><line x1="335.0" y1="70.0" x2="335.0" y2="82.0" stroke="#000" stroke-width="1"/>
+<line x1="202.3" y1="262.0" x2="192.3" y2="268.0" stroke="#000" stroke-width="1"/><line x1="202.3" y1="262.0" x2="192.3" y2="256.0" stroke="#000" stroke-width="1"/>
+<polyline points="1045.7,96.0 949.7,96.0 949.7,78.0 895.7,78.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="902.7" y1="84.0" x2="902.7" y2="72.0" stroke="#000" stroke-width="1"/><line x1="907.7" y1="84.0" x2="907.7" y2="72.0" stroke="#000" stroke-width="1"/>
+<line x1="1035.7" y1="96.0" x2="1045.7" y2="90.0" stroke="#000" stroke-width="1"/><line x1="1035.7" y1="96.0" x2="1045.7" y2="102.0" stroke="#000" stroke-width="1"/>
+<polyline points="1045.7,116.0 967.7,116.0 967.7,26.0 649.1,26.0 649.1,79.3 535.0,79.3" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="542.0" y1="85.3" x2="542.0" y2="73.3" stroke="#000" stroke-width="1"/><circle cx="550.0" cy="79.3" r="4" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="1035.7" y1="116.0" x2="1045.7" y2="110.0" stroke="#000" stroke-width="1"/><line x1="1035.7" y1="116.0" x2="1045.7" y2="122.0" stroke="#000" stroke-width="1"/>
+<polyline points="1045.7,342.0 985.7,342.0 985.7,82.0 895.7,82.0" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="902.7" y1="88.0" x2="902.7" y2="76.0" stroke="#000" stroke-width="1"/><line x1="907.7" y1="88.0" x2="907.7" y2="76.0" stroke="#000" stroke-width="1"/>
+<line x1="1035.7" y1="342.0" x2="1045.7" y2="336.0" stroke="#000" stroke-width="1"/><line x1="1035.7" y1="342.0" x2="1045.7" y2="348.0" stroke="#000" stroke-width="1"/>
+<text x="793.4" y="57.0" font-size="12" text-anchor="middle" font-weight="bold">NguoiDung</text>
+<text x="695.1" y="79.7" font-size="11" text-decoration="underline">PK  MaNguoiDung: int IDENTITY</text>
+<text x="695.1" y="99.7" font-size="11">TenDangNhap: varchar(50) UQ</text>
+<text x="695.1" y="119.7" font-size="11">MatKhauMaHoa: varchar(200)</text>
+<text x="695.1" y="139.7" font-size="11">HoTen: nvarchar(100)</text>
+<text x="695.1" y="159.7" font-size="11">Email: varchar(100) NULL</text>
+<text x="695.1" y="179.7" font-size="11">VaiTro: nvarchar(20)</text>
+<text x="695.1" y="199.7" font-size="11" font-style="italic">FK  MaNguoiCapNganSach: int NULL</text>
+<text x="695.1" y="219.7" font-size="11">HoatDong: bit</text>
+<text x="695.1" y="239.7" font-size="11">NgayTao: datetime2(0)</text>
+<text x="98.5" y="57.0" font-size="12" text-anchor="middle" font-weight="bold">DanhMuc</text>
+<text x="4.0" y="79.7" font-size="11" text-decoration="underline">PK  MaDanhMuc: int IDENTITY</text>
+<text x="4.0" y="99.7" font-size="11">TenDanhMuc: nvarchar(100) UQ</text>
+<text x="4.0" y="119.7" font-size="11">MoTa: nvarchar(255) NULL</text>
+<text x="4.0" y="139.7" font-size="11">HoatDong: bit</text>
+<text x="441.0" y="57.0" font-size="12" text-anchor="middle" font-weight="bold">HanMuc</text>
+<text x="351.0" y="79.7" font-size="11" text-decoration="underline">PK  MaHanMuc: int IDENTITY</text>
+<text x="351.0" y="99.7" font-size="11" font-style="italic">FK  MaSinhVien: int</text>
+<text x="351.0" y="119.7" font-size="11" font-style="italic">FK  MaDanhMuc: int</text>
+<text x="351.0" y="139.7" font-size="11">NgayBatDau: date</text>
+<text x="351.0" y="159.7" font-size="11">NgayKetThuc: date</text>
+<text x="351.0" y="179.7" font-size="11">SoTienHanMuc: decimal(18,0)</text>
+<text x="351.0" y="199.7" font-size="11">SoTienDaChi: decimal(18,0)</text>
+<text x="351.0" y="219.7" font-size="11">NguongCanhBao: decimal(5,2)</text>
+<text x="351.0" y="239.7" font-size="11">LoaiHanMuc: nvarchar(10)</text>
+<text x="351.0" y="259.7" font-size="11">TrangThai: nvarchar(20)</text>
+<text x="351.0" y="279.7" font-size="11" font-style="italic">FK  MaNguoiTao: int</text>
+<text x="351.0" y="299.7" font-size="11">NgayTao: datetime2(0)</text>
+<text x="351.0" y="319.7" font-size="11">PhienBan: rowversion</text>
+<text x="444.0" y="403.0" font-size="12" text-anchor="middle" font-weight="bold">GiaoDich</text>
+<text x="351.0" y="425.7" font-size="11" text-decoration="underline">PK  MaGiaoDich: int IDENTITY</text>
+<text x="351.0" y="445.7" font-size="11" font-style="italic">FK  MaHanMuc: int</text>
+<text x="351.0" y="465.7" font-size="11">SoTien: decimal(18,0)</text>
+<text x="351.0" y="485.7" font-size="11">NgayGiaoDich: date</text>
+<text x="351.0" y="505.7" font-size="11">MoTa: nvarchar(255) NULL</text>
+<text x="351.0" y="525.7" font-size="11">TrangThai: nvarchar(20)</text>
+<text x="351.0" y="545.7" font-size="11">NgayTao: datetime2(0)</text>
+<text x="351.0" y="565.7" font-size="11">LyDoHuy: nvarchar(255) NULL</text>
+<text x="351.0" y="585.7" font-size="11" font-style="italic">FK  MaNguoiHuy: int NULL</text>
+<text x="351.0" y="605.7" font-size="11">NgayHuy: datetime2(0) NULL</text>
+<text x="788.5" y="323.0" font-size="12" text-anchor="middle" font-weight="bold">YeuCauNgoaiLe</text>
+<text x="695.1" y="345.7" font-size="11" text-decoration="underline">PK  MaYeuCau: int IDENTITY</text>
+<text x="695.1" y="365.7" font-size="11" font-style="italic">FK  MaGiaoDich: int UQ</text>
+<text x="695.1" y="385.7" font-size="11" font-style="italic">FK  MaNguoiDuyet: int NULL</text>
+<text x="695.1" y="405.7" font-size="11">TrangThai: nvarchar(20)</text>
+<text x="695.1" y="425.7" font-size="11">GhiChu: nvarchar(255) NULL</text>
+<text x="695.1" y="445.7" font-size="11">NgayYeuCau: datetime2(0)</text>
+<text x="695.1" y="465.7" font-size="11">NgayDuyet: datetime2(0) NULL</text>
+<text x="96.2" y="223.0" font-size="12" text-anchor="middle" font-weight="bold">NhatKyViPham</text>
+<text x="4.0" y="245.7" font-size="11" text-decoration="underline">PK  MaViPham: int IDENTITY</text>
+<text x="4.0" y="265.7" font-size="11" font-style="italic">FK  MaHanMuc: int</text>
+<text x="4.0" y="285.7" font-size="11">SoTienDinhChi: decimal(18,0)</text>
+<text x="4.0" y="305.7" font-size="11">SoConLaiLucDo: decimal(18,0)</text>
+<text x="4.0" y="325.7" font-size="11">KetQua: nvarchar(30)</text>
+<text x="4.0" y="345.7" font-size="11">NgayXayRa: datetime2(0)</text>
+<text x="1136.9" y="57.0" font-size="12" text-anchor="middle" font-weight="bold">ThongBao</text>
+<text x="1049.7" y="79.7" font-size="11" text-decoration="underline">PK  MaThongBao: int IDENTITY</text>
+<text x="1049.7" y="99.7" font-size="11" font-style="italic">FK  MaNguoiNhan: int</text>
+<text x="1049.7" y="119.7" font-size="11" font-style="italic">FK  MaHanMuc: int NULL</text>
+<text x="1049.7" y="139.7" font-size="11">LoaiThongBao: nvarchar(30)</text>
+<text x="1049.7" y="159.7" font-size="11">NoiDung: nvarchar(500)</text>
+<text x="1049.7" y="179.7" font-size="11">TinhTrangGui: nvarchar(20)</text>
+<text x="1049.7" y="199.7" font-size="11">DaDoc: bit</text>
+<text x="1049.7" y="219.7" font-size="11">NgayTao: datetime2(0)</text>
+<text x="1145.6" y="303.0" font-size="12" text-anchor="middle" font-weight="bold">NhatKyHeThong</text>
+<text x="1049.7" y="325.7" font-size="11" text-decoration="underline">PK  MaNhatKy: int IDENTITY</text>
+<text x="1049.7" y="345.7" font-size="11" font-style="italic">FK  MaNguoiDung: int</text>
+<text x="1049.7" y="365.7" font-size="11">HanhDong: nvarchar(50)</text>
+<text x="1049.7" y="385.7" font-size="11">TenThucThe: varchar(50)</text>
+<text x="1049.7" y="405.7" font-size="11">MaThucThe: int</text>
+<text x="1049.7" y="425.7" font-size="11">GiaTriCu: nvarchar(max) NULL</text>
+<text x="1049.7" y="445.7" font-size="11">GiaTriMoi: nvarchar(max) NULL</text>
+<text x="1049.7" y="465.7" font-size="11">NgayGio: datetime2(0)</text>
+</svg>

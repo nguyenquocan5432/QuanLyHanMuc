@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1193" height="1053" viewBox="-12.0 -59.0 1193.0 1053.0" font-family="Liberation Serif, Times New Roman, serif"><rect x="-12" y="-59.0" width="1193.0" height="1053.0" fill="#fff"/>
+<polyline points="627.4,0.0 627.4,-30.0 719.0,-30.0 719.0,19.6 679.0,19.6" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="498.4,245.0 498.4,355.0" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="601.6,245.0 601.6,355.0" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="271.0,63.0 346.0,63.0 346.0,392.3 421.0,392.3" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="421.0,479.0 271.0,479.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polygon points="421.0,479.0 413.0,475.0 405.0,479.0 413.0,483.0" fill="#000" stroke="#000" stroke-width="1"/>
+<polyline points="556.5,666.0 556.5,776.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polygon points="556.5,666.0 552.5,674.0 556.5,682.0 560.5,674.0" fill="#000" stroke="#000" stroke-width="1"/>
+<polyline points="692.0,385.0 925.5,385.0" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="679.0,30.0 893.0,30.0" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="679.0,183.8 795.0,183.8 795.0,480.3 925.5,480.3" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="679.0,225.4 823.0,225.4 823.0,900.5 926.0,900.5" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="743.0,806.0 926.0,806.0" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="421.0,208.2 364.0,208.2 364.0,837.8 421.0,837.8" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<rect x="421" y="0" width="258" height="245" fill="#fff" stroke="#000" stroke-width="1"/><line x1="421" y1="23" x2="679" y2="23" stroke="#000" stroke-width="1"/>
+<line x1="421" y1="154.0" x2="679" y2="154.0" stroke="#000" stroke-width="1"/>
+<rect x="100" y="0" width="171" height="126" fill="#fff" stroke="#000" stroke-width="1"/><line x1="100" y1="23" x2="271" y2="23" stroke="#000" stroke-width="1"/>
+<line x1="100" y1="88.0" x2="271" y2="88.0" stroke="#000" stroke-width="1"/>
+<rect x="421" y="355" width="271" height="311" fill="#fff" stroke="#000" stroke-width="1"/><line x1="421" y1="378" x2="692" y2="378" stroke="#000" stroke-width="1"/>
+<line x1="421" y1="522.0" x2="692" y2="522.0" stroke="#000" stroke-width="1"/>
+<rect x="421" y="776" width="322" height="206" fill="#fff" stroke="#000" stroke-width="1"/><line x1="421" y1="799" x2="743" y2="799" stroke="#000" stroke-width="1"/>
+<line x1="421" y1="917.0" x2="743" y2="917.0" stroke="#000" stroke-width="1"/>
+<rect x="926.0" y="776" width="210" height="166" fill="#fff" stroke="#000" stroke-width="1"/><line x1="926.0" y1="799" x2="1136.0" y2="799" stroke="#000" stroke-width="1"/>
+<line x1="926.0" y1="877.0" x2="1136.0" y2="877.0" stroke="#000" stroke-width="1"/>
+<rect x="0" y="355" width="271" height="139" fill="#fff" stroke="#000" stroke-width="1"/><line x1="0" y1="378" x2="271" y2="378" stroke="#000" stroke-width="1"/>
+<line x1="0" y1="456.0" x2="271" y2="456.0" stroke="#000" stroke-width="1"/>
+<rect x="925.5" y="355" width="211" height="179" fill="#fff" stroke="#000" stroke-width="1"/><line x1="925.5" y1="378" x2="1136.5" y2="378" stroke="#000" stroke-width="1"/>
+<line x1="925.5" y1="469.0" x2="1136.5" y2="469.0" stroke="#000" stroke-width="1"/>
+<rect x="893.0" y="0" width="276" height="152" fill="#fff" stroke="#000" stroke-width="1"/><line x1="893.0" y1="23" x2="1169.0" y2="23" stroke="#000" stroke-width="1"/>
+<line x1="893.0" y1="127.0" x2="1169.0" y2="127.0" stroke="#000" stroke-width="1"/>
+<text x="550.0" y="15.2" font-size="11" text-anchor="middle" font-weight="bold">NguoiDung</text>
+<text x="425.0" y="37.3" font-size="11">- MaNguoiDung: int</text><text x="425.0" y="50.5" font-size="11">- TenDangNhap: string</text><text x="425.0" y="63.7" font-size="11">- MatKhauMaHoa: string</text><text x="425.0" y="76.9" font-size="11">- HoTen: string</text><text x="425.0" y="90.1" font-size="11">- Email: string</text><text x="425.0" y="103.3" font-size="11">- VaiTro: VaiTro</text><text x="425.0" y="116.5" font-size="11">- MaNguoiCapNganSach: int?</text><text x="425.0" y="129.7" font-size="11">- HoatDong: bool</text><text x="425.0" y="142.9" font-size="11">- NgayTao: DateTime</text>
+<text x="425.0" y="172.3" font-size="11">+ dangNhap(ten, matKhau): NguoiDungDangNhap</text><text x="425.0" y="185.5" font-size="11">+ bamMatKhau(matKhau): string</text><text x="425.0" y="198.7" font-size="11">+ coQuyenQuanLy(maNguoi, maSV): bool</text><text x="425.0" y="211.9" font-size="11">+ laySinhVienDuocQuanLy(maNguoi): List</text><text x="425.0" y="225.1" font-size="11">+ luu(): int</text><text x="425.0" y="238.3" font-size="11">+ datLaiMatKhau(): void</text>
+<text x="185.5" y="15.2" font-size="11" text-anchor="middle" font-weight="bold">DanhMuc</text>
+<text x="104.0" y="37.3" font-size="11">- MaDanhMuc: int</text><text x="104.0" y="50.5" font-size="11">- TenDanhMuc: string</text><text x="104.0" y="63.7" font-size="11">- MoTa: string</text><text x="104.0" y="76.9" font-size="11">- HoatDong: bool</text>
+<text x="104.0" y="106.3" font-size="11">+ layDanhSachDangDung(): List</text><text x="104.0" y="119.5" font-size="11">+ luu(): int</text>
+<text x="556.5" y="370.2" font-size="11" text-anchor="middle" font-weight="bold">HanMuc</text>
+<text x="425.0" y="392.3" font-size="11">- MaHanMuc: int</text><text x="425.0" y="405.5" font-size="11">- NgayBatDau: Date</text><text x="425.0" y="418.7" font-size="11">- NgayKetThuc: Date</text><text x="425.0" y="431.9" font-size="11">- SoTienHanMuc: decimal</text><text x="425.0" y="445.1" font-size="11">- SoTienDaChi: decimal</text><text x="425.0" y="458.3" font-size="11">- NguongCanhBao: decimal</text><text x="425.0" y="471.5" font-size="11">- LoaiHanMuc: LoaiHanMuc</text><text x="425.0" y="484.7" font-size="11">- TrangThai: TrangThaiHanMuc</text><text x="425.0" y="497.9" font-size="11">- NgayTao: DateTime</text><text x="425.0" y="511.1" font-size="11">- PhienBan: byte[]</text>
+<text x="425.0" y="540.3" font-size="11">+ taoMoi(): int</text><text x="425.0" y="553.5" font-size="11">+ layHanMucHieuLuc(maSV, maDM, ngay): HanMuc</text><text x="425.0" y="566.7" font-size="11">+ tyLeSuDung(): decimal</text><text x="425.0" y="579.9" font-size="11">+ soConLai(): decimal</text><text x="425.0" y="593.1" font-size="11">+ tyLeDuKien(soTien): decimal</text><text x="425.0" y="606.3" font-size="11">+ danhGiaGiaoDich(soTien): KetQuaDanhGia</text><text x="425.0" y="619.5" font-size="11">+ tinhTrangThai(): TrangThaiHanMuc</text><text x="425.0" y="632.7" font-size="11">+ dieuChinh(soTien, loai, nguong, phienBan): void</text><text x="425.0" y="645.9" font-size="11">+ khoa(): void</text><text x="425.0" y="659.1" font-size="11">+ moKhoa(): void</text>
+<text x="582.0" y="791.2" font-size="11" text-anchor="middle" font-weight="bold">GiaoDich</text>
+<text x="425.0" y="813.3" font-size="11">- MaGiaoDich: int</text><text x="425.0" y="826.5" font-size="11">- SoTien: decimal</text><text x="425.0" y="839.7" font-size="11">- NgayGiaoDich: Date</text><text x="425.0" y="852.9" font-size="11">- MoTa: string</text><text x="425.0" y="866.1" font-size="11">- TrangThai: TrangThaiGiaoDich</text><text x="425.0" y="879.3" font-size="11">- NgayTao: DateTime</text><text x="425.0" y="892.5" font-size="11">- LyDoHuy: string</text><text x="425.0" y="905.7" font-size="11">- NgayHuy: DateTime?</text>
+<text x="425.0" y="935.3" font-size="11">+ ghiNhan(maSV, maDM, soTien, ngay, moTa): KetQuaGhiNhan</text><text x="425.0" y="948.5" font-size="11">+ layLichSu(boLoc): List</text><text x="425.0" y="961.7" font-size="11">+ layGanDay(maHanMuc): List</text><text x="425.0" y="974.9" font-size="11">+ huy(lyDo, maNguoiHuy): void</text>
+<text x="1031.0" y="791.2" font-size="11" text-anchor="middle" font-weight="bold">YeuCauNgoaiLe</text>
+<text x="930.0" y="813.3" font-size="11">- MaYeuCau: int</text><text x="930.0" y="826.5" font-size="11">- TrangThai: TrangThaiYeuCau</text><text x="930.0" y="839.7" font-size="11">- GhiChu: string</text><text x="930.0" y="852.9" font-size="11">- NgayYeuCau: DateTime</text><text x="930.0" y="866.1" font-size="11">- NgayDuyet: DateTime?</text>
+<text x="930.0" y="895.3" font-size="11">+ taoMoi(maGiaoDich): void</text><text x="930.0" y="908.5" font-size="11">+ layDanhSachChoDuyet(maNguoi): List</text><text x="930.0" y="921.7" font-size="11">+ duyet(maNguoiDuyet, ghiChu): void</text><text x="930.0" y="934.9" font-size="11">+ tuChoi(maNguoiDuyet, ghiChu): void</text>
+<text x="135.5" y="370.2" font-size="11" text-anchor="middle" font-weight="bold">NhatKyViPham</text>
+<text x="4.0" y="392.3" font-size="11">- MaViPham: int</text><text x="4.0" y="405.5" font-size="11">- SoTienDinhChi: decimal</text><text x="4.0" y="418.7" font-size="11">- SoConLaiLucDo: decimal</text><text x="4.0" y="431.9" font-size="11">- KetQua: KetQuaViPham</text><text x="4.0" y="445.1" font-size="11">- NgayXayRa: DateTime</text>
+<text x="4.0" y="474.3" font-size="11">+ ghiNhan(maHanMuc, soTien, conLai, ketQua): void</text><text x="4.0" y="487.5" font-size="11">+ layBaoCao(tu, den, maSV): List</text>
+<text x="1031.0" y="370.2" font-size="11" text-anchor="middle" font-weight="bold">ThongBao</text>
+<text x="929.5" y="392.3" font-size="11">- MaThongBao: int</text><text x="929.5" y="405.5" font-size="11">- LoaiThongBao: LoaiThongBao</text><text x="929.5" y="418.7" font-size="11">- NoiDung: string</text><text x="929.5" y="431.9" font-size="11">- TinhTrangGui: string</text><text x="929.5" y="445.1" font-size="11">- DaDoc: bool</text><text x="929.5" y="458.3" font-size="11">- NgayTao: DateTime</text>
+<text x="929.5" y="487.3" font-size="11">+ tao(maNguoiNhan, loai, noiDung): void</text><text x="929.5" y="500.5" font-size="11">+ demChuaDoc(maNguoi): int</text><text x="929.5" y="513.7" font-size="11">+ layDanhSach(maNguoi): List</text><text x="929.5" y="526.9" font-size="11">+ danhDauDaDoc(maThongBao?): void</text>
+<text x="1031.0" y="15.2" font-size="11" text-anchor="middle" font-weight="bold">NhatKyHeThong</text>
+<text x="897.0" y="37.3" font-size="11">- MaNhatKy: int</text><text x="897.0" y="50.5" font-size="11">- HanhDong: string</text><text x="897.0" y="63.7" font-size="11">- TenThucThe: string</text><text x="897.0" y="76.9" font-size="11">- MaThucThe: int</text><text x="897.0" y="90.1" font-size="11">- GiaTriCu: string</text><text x="897.0" y="103.3" font-size="11">- GiaTriMoi: string</text><text x="897.0" y="116.5" font-size="11">- NgayGio: DateTime</text>
+<text x="897.0" y="145.3" font-size="11">+ ghi(maNguoi, hanhDong, thucThe, ma, cu, moi): void</text>
+<rect x="634.7" y="-45.0" width="77.0" height="12.0" fill="#fff"/><text x="673.2" y="-35.6" font-size="10" text-anchor="middle">cấp ngân sách cho</text>
+<rect x="628.9" y="-24.0" width="19.0" height="12.0" fill="#fff"/><text x="638.4" y="-14.6" font-size="10" text-anchor="middle">0..1</text>
+<rect x="687.5" y="2.6" width="19.0" height="12.0" fill="#fff"/><text x="697.0" y="12.0" font-size="10" text-anchor="middle">0..*</text>
+<rect x="454.0" y="294.0" width="40.4" height="12.0" fill="#fff"/><text x="474.2" y="303.4" font-size="10" text-anchor="middle">sinh viên</text>
+<rect x="482.9" y="257.0" width="9.0" height="12.0" fill="#fff"/><text x="487.4" y="266.4" font-size="10" text-anchor="middle">1</text>
+<rect x="477.9" y="331.0" width="19.0" height="12.0" fill="#fff"/><text x="487.4" y="340.4" font-size="10" text-anchor="middle">0..*</text>
+<rect x="605.6" y="294.0" width="42.2" height="12.0" fill="#fff"/><text x="626.7" y="303.4" font-size="10" text-anchor="middle">người tạo</text>
+<rect x="586.1" y="257.0" width="9.0" height="12.0" fill="#fff"/><text x="590.6" y="266.4" font-size="10" text-anchor="middle">1</text>
+<rect x="581.1" y="331.0" width="19.0" height="12.0" fill="#fff"/><text x="590.6" y="340.4" font-size="10" text-anchor="middle">0..*</text>
+<rect x="284.5" y="68.0" width="9.0" height="12.0" fill="#fff"/><text x="289.0" y="77.4" font-size="10" text-anchor="middle">1</text>
+<rect x="393.5" y="397.3" width="19.0" height="12.0" fill="#fff"/><text x="403.0" y="406.7" font-size="10" text-anchor="middle">0..*</text>
+<rect x="398.5" y="462.0" width="9.0" height="12.0" fill="#fff"/><text x="403.0" y="471.4" font-size="10" text-anchor="middle">1</text>
+<rect x="279.5" y="462.0" width="19.0" height="12.0" fill="#fff"/><text x="289.0" y="471.4" font-size="10" text-anchor="middle">0..*</text>
+<rect x="541.0" y="678.0" width="9.0" height="12.0" fill="#fff"/><text x="545.5" y="687.4" font-size="10" text-anchor="middle">1</text>
+<rect x="536.0" y="752.0" width="19.0" height="12.0" fill="#fff"/><text x="545.5" y="761.4" font-size="10" text-anchor="middle">0..*</text>
+<rect x="700.5" y="390.0" width="19.0" height="12.0" fill="#fff"/><text x="710.0" y="399.4" font-size="10" text-anchor="middle">0..1</text>
+<rect x="898.0" y="390.0" width="19.0" height="12.0" fill="#fff"/><text x="907.5" y="399.4" font-size="10" text-anchor="middle">0..*</text>
+<rect x="752.3" y="15.0" width="67.3" height="12.0" fill="#fff"/><text x="786.0" y="24.4" font-size="10" text-anchor="middle">người thực hiện</text>
+<rect x="692.5" y="35.0" width="9.0" height="12.0" fill="#fff"/><text x="697.0" y="44.4" font-size="10" text-anchor="middle">1</text>
+<rect x="865.5" y="35.0" width="19.0" height="12.0" fill="#fff"/><text x="875.0" y="44.4" font-size="10" text-anchor="middle">0..*</text>
+<rect x="741.6" y="326.0" width="49.4" height="12.0" fill="#fff"/><text x="766.3" y="335.4" font-size="10" text-anchor="middle">người nhận</text>
+<rect x="692.5" y="188.8" width="9.0" height="12.0" fill="#fff"/><text x="697.0" y="198.1" font-size="10" text-anchor="middle">1</text>
+<rect x="898.0" y="485.3" width="19.0" height="12.0" fill="#fff"/><text x="907.5" y="494.7" font-size="10" text-anchor="middle">0..*</text>
+<rect x="827.0" y="557.0" width="52.2" height="12.0" fill="#fff"/><text x="853.1" y="566.3" font-size="10" text-anchor="middle">người duyệt</text>
+<rect x="687.5" y="230.4" width="19.0" height="12.0" fill="#fff"/><text x="697.0" y="239.8" font-size="10" text-anchor="middle">0..1</text>
+<rect x="898.5" y="905.5" width="19.0" height="12.0" fill="#fff"/><text x="908.0" y="914.9" font-size="10" text-anchor="middle">0..*</text>
+<rect x="756.5" y="811.0" width="9.0" height="12.0" fill="#fff"/><text x="761.0" y="820.4" font-size="10" text-anchor="middle">1</text>
+<rect x="898.5" y="811.0" width="19.0" height="12.0" fill="#fff"/><text x="908.0" y="820.4" font-size="10" text-anchor="middle">0..1</text>
+<rect x="315.0" y="517.0" width="45.0" height="12.0" fill="#fff"/><text x="337.5" y="526.4" font-size="10" text-anchor="middle">người hủy</text>
+<rect x="393.5" y="191.2" width="19.0" height="12.0" fill="#fff"/><text x="403.0" y="200.6" font-size="10" text-anchor="middle">0..1</text>
+<rect x="393.5" y="842.8" width="19.0" height="12.0" fill="#fff"/><text x="403.0" y="852.2" font-size="10" text-anchor="middle">0..*</text>
+</svg>

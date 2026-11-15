@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1164" height="1229" viewBox="9.2 -12.0 1163.7 1229.2" font-family="Liberation Serif, Times New Roman, serif"><rect x="9.25" y="-12" width="1163.7109375" height="1229.2000000000003" fill="#fff"/>
+<line x1="60.0" y1="40" x2="60.0" y2="1205.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="60.0" cy="5.0" r="5.0" fill="#fff"/><line x1="60.0" y1="10.0" x2="60.0" y2="26.400000000000002"/><line x1="50.0" y1="15.0" x2="70.0" y2="15.0"/><line x1="60.0" y1="26.400000000000002" x2="50.0" y2="40"/><line x1="60.0" y1="26.400000000000002" x2="70.0" y2="40"/></g>
+<line x1="283.28125" y1="40" x2="283.28125" y2="1205.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="258.28125" y1="4" x2="258.28125" y2="36" stroke="#000" stroke-width="1"/><line x1="258.28125" y1="20" x2="267.28125" y2="20" stroke="#000" stroke-width="1"/><circle cx="287.28125" cy="20" r="16" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="498.53125" y1="40" x2="498.53125" y2="1205.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="498.53125" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="504.53125,0 496.53125,5 504.53125,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="730.484375" y1="40" x2="730.484375" y2="1205.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="730.484375" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="736.484375,0 728.484375,5 736.484375,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="897.375" y1="40" x2="897.375" y2="1205.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="897.375" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="880.375" y1="38" x2="914.375" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1115.296875" y1="40" x2="1115.296875" y2="1205.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1115.296875" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1098.296875" y1="38" x2="1132.296875" y2="38" stroke="#000" stroke-width="1"/>
+<rect x="36" y="424.3999999999999" width="1103.296875" height="750.8000000000004" fill="none" stroke="#000" stroke-width="1"/><polygon points="36,424.3999999999999 86,424.3999999999999 86,436.3999999999999 78,444.3999999999999 36,444.3999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="714.484375" y="510.7999999999999" width="246.21875" height="71.2000000000001" fill="none" stroke="#000" stroke-width="1"/><polygon points="714.484375,510.7999999999999 764.484375,510.7999999999999 764.484375,522.8 756.484375,530.8 714.484375,530.8" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="44" y="839.6" width="1087.296875" height="319.60000000000025" fill="none" stroke="#000" stroke-width="1"/><polygon points="44,839.6 94,839.6 94,851.6 86,859.6 44,859.6" fill="#fff" stroke="#000" stroke-width="1"/>
+<polyline points="60.0,115.2 278.3,115.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="278.3,115.2 268.3,111.2 268.3,119.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="288.3,146.4 493.5,146.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="493.5,146.4 483.5,142.4 483.5,150.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.5,190.8 725.5,190.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="725.5,190.8 715.5,186.8 715.5,194.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="725.5,222.0 503.5,222.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="513.5,227.0 503.5,222.0 513.5,217.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.5,266.4 288.3,266.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="298.3,271.4 288.3,266.4 298.3,261.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="60.0,310.8 278.3,310.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="278.3,310.8 268.3,306.8 268.3,314.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="288.3,355.2 493.5,355.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="493.5,355.2 483.5,351.2 483.5,359.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.5,376.4 533.5,376.4 533.5,398.4 503.5,398.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="503.5,398.4 513.5,402.4 513.5,394.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.5,486.8 725.5,486.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="725.5,486.8 715.5,482.8 715.5,490.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="735.5,560.0 892.4,560.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="892.4,560.0 882.4,556.0 882.4,564.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="725.5,607.2 503.5,607.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="513.5,612.2 503.5,607.2 513.5,602.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.5,638.4 288.3,638.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="298.3,643.4 288.3,638.4 298.3,633.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.5,712.8 725.5,712.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="725.5,712.8 715.5,708.8 715.5,716.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="735.5,757.2 892.4,757.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="892.4,757.2 882.4,753.2 882.4,761.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="902.4,791.6 932.4,791.6 932.4,813.6 902.4,813.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="902.4,813.6 912.4,817.6 912.4,809.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="892.4,888.8 735.5,888.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="745.5,893.8 735.5,888.8 745.5,883.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="725.5,920.0 503.5,920.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="513.5,925.0 503.5,920.0 513.5,915.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.5,951.2 288.3,951.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="298.3,956.2 288.3,951.2 298.3,946.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="902.4,1012.4 1110.3,1012.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1110.3,1012.4 1100.3,1008.4 1100.3,1016.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="892.4,1043.6 735.5,1043.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="745.5,1048.6 735.5,1043.6 745.5,1038.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="725.5,1074.8 503.5,1074.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="513.5,1079.8 503.5,1074.8 513.5,1069.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.5,1106.0 288.3,1106.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="298.3,1111.0 288.3,1106.0 298.3,1101.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="278.3,1137.2 60.0,1137.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="70.0,1142.2 60.0,1137.2 70.0,1132.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="36.0,658.4 1139.3,658.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<polyline points="44.0,971.2 1131.3,971.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<rect x="278.28125" y="109.2" width="10" height="165.2" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="493.53125" y="140.39999999999998" width="10" height="134.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="725.484375" y="184.79999999999998" width="10" height="45.19999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="278.28125" y="304.79999999999995" width="10" height="840.4000000000003" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="493.53125" y="349.19999999999993" width="10" height="764.8000000000003" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="725.484375" y="480.7999999999999" width="10" height="602.0000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="892.375" y="554.0" width="10" height="497.60000000000014" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1110.296875" y="1006.4000000000002" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="23.2" y="42.0" width="73.5" height="28.8" fill="#fff"/><text x="60.0" y="53.2" font-size="12" text-anchor="middle">Người quản lý</text><text x="60.0" y="67.6" font-size="12" text-anchor="middle">hạn mức</text>
+<rect x="229.8" y="42.0" width="107.0" height="14.4" fill="#fff"/><text x="283.3" y="53.2" font-size="12" text-anchor="middle">ThietLapHanMuc.tsx</text>
+<rect x="450.9" y="42.0" width="95.3" height="14.4" fill="#fff"/><text x="498.5" y="53.2" font-size="12" text-anchor="middle">HanMucController</text>
+<rect x="689.5" y="42.0" width="82.0" height="14.4" fill="#fff"/><text x="730.5" y="53.2" font-size="12" text-anchor="middle">HanMucService</text>
+<rect x="874.4" y="42.0" width="46.0" height="14.4" fill="#fff"/><text x="897.4" y="53.2" font-size="12" text-anchor="middle">HanMuc</text>
+<rect x="1071.6" y="42.0" width="87.3" height="14.4" fill="#fff"/><text x="1115.3" y="53.2" font-size="12" text-anchor="middle">NhatKyHeThong</text>
+<text x="41.0" y="438.1" font-size="11">alt</text>
+<rect x="92" y="426.3999999999999" width="190.84375" height="16.0" fill="#fff"/>
+<text x="96.0" y="437.8" font-size="10">[Chọn "Áp dụng cho tất cả sinh viên của tôi"]</text>
+<rect x="68" y="661.4000000000001" width="70.21875" height="16.0" fill="#fff"/>
+<text x="72.0" y="672.8" font-size="10">[Một sinh viên]</text>
+<text x="719.5" y="524.5" font-size="11">loop</text>
+<rect x="770.484375" y="512.8" width="184.21875" height="16.0" fill="#fff"/>
+<text x="774.5" y="524.2" font-size="10">[Mỗi sinh viên do người này cấp ngân sách]</text>
+<text x="49.0" y="853.3" font-size="11">alt</text>
+<rect x="100" y="841.6" width="147.625" height="16.0" fill="#fff"/>
+<text x="104.0" y="853.0" font-size="10">[Trùng kỳ với hạn mức chưa khóa]</text>
+<rect x="68" y="974.2000000000002" width="41.875" height="16.0" fill="#fff"/>
+<text x="72.0" y="985.6" font-size="10">[Hợp lệ]</text>
+<rect x="105.3" y="100.0" width="127.7" height="13.2" fill="#fff"/><text x="169.1" y="110.3" font-size="11" text-anchor="middle">Mở trang Thiết lập hạn mức</text>
+<rect x="327.2" y="131.2" width="127.5" height="13.2" fill="#fff"/><text x="390.9" y="141.5" font-size="11" text-anchor="middle">GET /api/han-muc/lua-chon</text>
+<rect x="543.0" y="162.4" width="142.9" height="26.4" fill="#fff"/><text x="614.5" y="172.7" font-size="11" text-anchor="middle">LaySinhVienDuocQuanLy(toi),</text><text x="614.5" y="185.9" font-size="11" text-anchor="middle">LayDanhMucDangDung()</text>
+<rect x="545.0" y="206.8" width="139.0" height="13.2" fill="#fff"/><text x="614.5" y="217.1" font-size="11" text-anchor="middle">danh sách sinh viên, danh mục</text>
+<rect x="293.3" y="238.0" width="195.2" height="26.4" fill="#fff"/><text x="390.9" y="248.3" font-size="11" text-anchor="middle">JSON: sinh viên, danh mục, kỳ mặc định là</text><text x="390.9" y="261.5" font-size="11" text-anchor="middle">tháng hiện tại</text>
+<rect x="70.6" y="282.4" width="197.1" height="26.4" fill="#fff"/><text x="169.1" y="292.7" font-size="11" text-anchor="middle">Chọn sinh viên, danh mục, kỳ, nhập số tiền,</text><text x="169.1" y="305.9" font-size="11" text-anchor="middle">loại, ngưỡng, bấm Lưu</text>
+<rect x="311.4" y="326.8" width="159.0" height="26.4" fill="#fff"/><text x="390.9" y="337.1" font-size="11" text-anchor="middle">POST /api/han-muc (JSON, header</text><text x="390.9" y="350.3" font-size="11" text-anchor="middle">X-XSRF-TOKEN)</text>
+<rect x="537.5" y="380.8" width="98.2" height="13.2" fill="#fff"/><text x="586.6" y="391.1" font-size="11" text-anchor="middle">KiemTraNhapLieu(f)</text>
+<rect x="508.5" y="458.4" width="212.0" height="26.4" fill="#fff"/><text x="614.5" y="468.7" font-size="11" text-anchor="middle">TaoChoTatCa(toi, maDM, tu, den, soTien, loai,</text><text x="614.5" y="481.9" font-size="11" text-anchor="middle">nguong)</text>
+<rect x="769.1" y="544.8" width="89.6" height="13.2" fill="#fff"/><text x="813.9" y="555.1" font-size="11" text-anchor="middle">sp_TaoHanMuc(...)</text>
+<rect x="521.9" y="592.0" width="185.2" height="13.2" fill="#fff"/><text x="614.5" y="602.3" font-size="11" text-anchor="middle">danh sách sinh viên bị bỏ qua vì trùng kỳ</text>
+<rect x="327.9" y="623.2" width="126.1" height="13.2" fill="#fff"/><text x="390.9" y="633.5" font-size="11" text-anchor="middle">200 { thongBao, canhBao }</text>
+<rect x="506.7" y="684.4" width="215.5" height="26.4" fill="#fff"/><text x="614.5" y="694.7" font-size="11" text-anchor="middle">TaoHanMuc(toi, maSV, maDM, tu, den, soTien,</text><text x="614.5" y="707.9" font-size="11" text-anchor="middle">loai, nguong)</text>
+<rect x="740.5" y="728.8" width="146.9" height="26.4" fill="#fff"/><text x="813.9" y="739.1" font-size="11" text-anchor="middle">sp_TaoHanMuc: kiểm tra quyền</text><text x="813.9" y="752.3" font-size="11" text-anchor="middle">(fn_CoQuyenQuanLy), INSERT</text>
+<rect x="936.4" y="789.4" width="171.9" height="26.4" fill="#fff"/><text x="1022.3" y="799.7" font-size="11" text-anchor="middle">Trigger TR_HanMuc_ChongTrungKy</text><text x="1022.3" y="812.9" font-size="11" text-anchor="middle">(BR01)</text>
+<rect x="754.5" y="873.6" width="118.9" height="13.2" fill="#fff"/><text x="813.9" y="883.9" font-size="11" text-anchor="middle">lỗi 50001, hủy transaction</text>
+<rect x="582.9" y="904.8" width="63.3" height="13.2" fill="#fff"/><text x="614.5" y="915.1" font-size="11" text-anchor="middle">SqlException</text>
+<rect x="308.0" y="936.0" width="165.8" height="13.2" fill="#fff"/><text x="390.9" y="946.3" font-size="11" text-anchor="middle">400 { loi }, form giữ dữ liệu đã nhập</text>
+<rect x="907.8" y="997.2" width="197.0" height="13.2" fill="#fff"/><text x="1006.3" y="1007.5" font-size="11" text-anchor="middle">ghi("Tạo hạn mức", giá trị mới dạng JSON)</text>
+<rect x="785.4" y="1028.4" width="57.1" height="13.2" fill="#fff"/><text x="813.9" y="1038.7" font-size="11" text-anchor="middle">MaHanMuc</text>
+<rect x="585.9" y="1059.6" width="57.1" height="13.2" fill="#fff"/><text x="614.5" y="1069.9" font-size="11" text-anchor="middle">MaHanMuc</text>
+<rect x="349.9" y="1090.8" width="82.1" height="13.2" fill="#fff"/><text x="390.9" y="1101.1" font-size="11" text-anchor="middle">200 { thongBao }</text>
+<rect x="67.5" y="1122.0" width="203.3" height="13.2" fill="#fff"/><text x="169.1" y="1132.3" font-size="11" text-anchor="middle">Chuyển về danh sách hạn mức, hộp báo xanh</text>
+</svg>

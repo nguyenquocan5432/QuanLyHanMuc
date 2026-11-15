@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1210" height="962" viewBox="12.3 -12.0 1209.7 962.4" font-family="Liberation Serif, Times New Roman, serif"><rect x="12.34375" y="-12" width="1209.6796875" height="962.4000000000001" fill="#fff"/>
+<line x1="60.0" y1="40" x2="60.0" y2="938.4000000000001" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="60.0" cy="5.0" r="5.0" fill="#fff"/><line x1="60.0" y1="10.0" x2="60.0" y2="26.400000000000002"/><line x1="50.0" y1="15.0" x2="70.0" y2="15.0"/><line x1="60.0" y1="26.400000000000002" x2="50.0" y2="40"/><line x1="60.0" y1="26.400000000000002" x2="70.0" y2="40"/></g>
+<line x1="286.484375" y1="40" x2="286.484375" y2="938.4000000000001" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="261.484375" y1="4" x2="261.484375" y2="36" stroke="#000" stroke-width="1"/><line x1="261.484375" y1="20" x2="270.484375" y2="20" stroke="#000" stroke-width="1"/><circle cx="290.484375" cy="20" r="16" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="498.21875" y1="40" x2="498.21875" y2="938.4000000000001" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="498.21875" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="504.21875,0 496.21875,5 504.21875,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="721.625" y1="40" x2="721.625" y2="938.4000000000001" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="721.625" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="727.625,0 719.625,5 727.625,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="954.453125" y1="40" x2="954.453125" y2="938.4000000000001" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="954.453125" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="937.453125" y1="38" x2="971.453125" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1164.359375" y1="40" x2="1164.359375" y2="938.4000000000001" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1164.359375" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="1147.359375" y1="38" x2="1181.359375" y2="38" stroke="#000" stroke-width="1"/>
+<rect x="930.453125" y="459.59999999999985" width="224.0" height="160.40000000000003" fill="none" stroke="#000" stroke-width="1"/><polygon points="930.453125,459.59999999999985 980.453125,459.59999999999985 980.453125,471.59999999999985 972.453125,479.59999999999985 930.453125,479.59999999999985" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="262.484375" y="637.9999999999999" width="925.875" height="270.4000000000002" fill="none" stroke="#000" stroke-width="1"/><polygon points="262.484375,637.9999999999999 312.484375,637.9999999999999 312.484375,649.9999999999999 304.484375,657.9999999999999 262.484375,657.9999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<polyline points="60.0,115.2 281.5,115.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="281.5,115.2 271.5,111.2 271.5,119.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="291.5,146.4 493.2,146.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="493.2,146.4 483.2,142.4 483.2,150.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.2,177.6 716.6,177.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="716.6,177.6 706.6,173.6 706.6,181.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="726.6,208.8 949.5,208.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="949.5,208.8 939.5,204.8 939.5,212.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="949.5,240.0 726.6,240.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="736.6,245.0 726.6,240.0 736.6,235.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.2,271.2 291.5,271.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="301.5,276.2 291.5,271.2 301.5,266.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="60.0,315.6 281.5,315.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="281.5,315.6 271.5,311.6 271.5,319.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="291.5,360.0 493.2,360.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="493.2,360.0 483.2,356.0 483.2,364.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="503.2,391.2 716.6,391.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="716.6,391.2 706.6,387.2 706.6,395.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="726.6,435.6 949.5,435.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="949.5,435.6 939.5,431.6 939.5,439.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="959.5,498.8 989.5,498.8 989.5,520.8 959.5,520.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="959.5,520.8 969.5,524.8 969.5,516.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="959.5,574.0 989.5,574.0 989.5,596.0 959.5,596.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="959.5,596.0 969.5,600.0 969.5,592.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="949.5,687.2 726.6,687.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="736.6,692.2 726.6,687.2 736.6,682.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="716.6,731.6 503.2,731.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="513.2,736.6 503.2,731.6 513.2,726.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.2,762.8 291.5,762.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="301.5,767.8 291.5,762.8 301.5,757.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="959.5,824.0 1159.4,824.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1159.4,824.0 1149.4,820.0 1149.4,828.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="716.6,855.2 503.2,855.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="513.2,860.2 503.2,855.2 513.2,850.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="493.2,886.4 291.5,886.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="301.5,891.4 291.5,886.4 301.5,881.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="930.5,542.8 1154.5,542.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<polyline points="262.5,782.8 1188.4,782.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<rect x="281.484375" y="109.2" width="10" height="169.99999999999994" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="493.21875" y="140.39999999999998" width="10" height="138.79999999999995" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="716.625" y="171.59999999999997" width="10" height="76.39999999999998" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="949.453125" y="202.79999999999995" width="10" height="45.19999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="281.484375" y="309.5999999999999" width="10" height="584.8000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="493.21875" y="353.9999999999999" width="10" height="540.4000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="716.625" y="385.1999999999999" width="10" height="478.00000000000017" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="949.453125" y="429.59999999999985" width="10" height="402.40000000000015" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1159.359375" y="818.0" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="26.3" y="42.0" width="67.3" height="14.4" fill="#fff"/><text x="60.0" y="53.2" font-size="12" text-anchor="middle">Quản trị viên</text>
+<rect x="252.0" y="42.0" width="69.0" height="14.4" fill="#fff"/><text x="286.5" y="53.2" font-size="12" text-anchor="middle">DanhMuc.tsx</text>
+<rect x="447.6" y="42.0" width="101.3" height="14.4" fill="#fff"/><text x="498.2" y="53.2" font-size="12" text-anchor="middle">DanhMucController</text>
+<rect x="681.5" y="42.0" width="80.2" height="14.4" fill="#fff"/><text x="721.6" y="53.2" font-size="12" text-anchor="middle">QuanTriService</text>
+<rect x="928.5" y="42.0" width="52.0" height="14.4" fill="#fff"/><text x="954.5" y="53.2" font-size="12" text-anchor="middle">DanhMuc</text>
+<rect x="1120.7" y="42.0" width="87.3" height="14.4" fill="#fff"/><text x="1164.4" y="53.2" font-size="12" text-anchor="middle">NhatKyHeThong</text>
+<text x="935.5" y="473.3" font-size="11">alt</text>
+<rect x="986.453125" y="461.59999999999985" width="56.328125" height="16.0" fill="#fff"/>
+<text x="990.5" y="473.0" font-size="10">[Thêm mới]</text>
+<rect x="962.453125" y="545.7999999999998" width="30.078125" height="16.0" fill="#fff"/>
+<text x="966.5" y="557.2" font-size="10">[Sửa]</text>
+<text x="267.5" y="651.7" font-size="11">alt</text>
+<rect x="318.484375" y="639.9999999999999" width="223.53125" height="16.0" fill="#fff"/>
+<text x="322.5" y="651.4" font-size="10">[Trùng tên danh mục (UQ_DanhMuc_TenDanhMuc)]</text>
+<rect x="294.484375" y="785.8" width="62.140625" height="16.0" fill="#fff"/>
+<text x="298.5" y="797.2" font-size="10">[Thành công]</text>
+<rect x="124.1" y="100.0" width="93.2" height="13.2" fill="#fff"/><text x="170.7" y="110.3" font-size="11" text-anchor="middle">Mở trang Danh mục</text>
+<rect x="346.6" y="131.2" width="91.5" height="13.2" fill="#fff"/><text x="392.4" y="141.5" font-size="11" text-anchor="middle">GET /api/danh-muc</text>
+<rect x="573.7" y="162.4" width="72.4" height="13.2" fill="#fff"/><text x="609.9" y="172.7" font-size="11" text-anchor="middle">LayDanhMuc()</text>
+<rect x="815.9" y="193.6" width="44.3" height="13.2" fill="#fff"/><text x="838.0" y="203.9" font-size="11" text-anchor="middle">SELECT</text>
+<rect x="791.3" y="224.8" width="93.5" height="13.2" fill="#fff"/><text x="838.0" y="235.1" font-size="11" text-anchor="middle">danh sách danh mục</text>
+<rect x="340.7" y="256.0" width="103.3" height="13.2" fill="#fff"/><text x="392.4" y="266.3" font-size="11" text-anchor="middle">JSON: bảng danh mục</text>
+<rect x="67.5" y="287.2" width="206.5" height="26.4" fill="#fff"/><text x="170.7" y="297.5" font-size="11" text-anchor="middle">Bấm một dòng để sửa (hoặc Thêm mới), nhập</text><text x="170.7" y="310.7" font-size="11" text-anchor="middle">tên, mô tả, Đang dùng, bấm Lưu</text>
+<rect x="296.5" y="331.6" width="191.7" height="26.4" fill="#fff"/><text x="392.4" y="341.9" font-size="11" text-anchor="middle">POST /api/danh-muc { maDanhMuc?, ten,</text><text x="392.4" y="355.1" font-size="11" text-anchor="middle">moTa, hoatDong }</text>
+<rect x="509.0" y="376.0" width="201.8" height="13.2" fill="#fff"/><text x="609.9" y="386.3" font-size="11" text-anchor="middle">LuuDanhMuc(toi, ma, ten, moTa, hoatDong)</text>
+<rect x="731.6" y="407.2" width="212.8" height="26.4" fill="#fff"/><text x="838.0" y="417.5" font-size="11" text-anchor="middle">sp_LuuDanhMuc: kiểm tra vai trò QuanTri, tên</text><text x="838.0" y="430.7" font-size="11" text-anchor="middle">không trống</text>
+<rect x="993.5" y="503.2" width="41.8" height="13.2" fill="#fff"/><text x="1014.4" y="513.5" font-size="11" text-anchor="middle">INSERT</text>
+<rect x="993.5" y="578.4" width="102.3" height="13.2" fill="#fff"/><text x="1044.6" y="588.7" font-size="11" text-anchor="middle">UPDATE (khóa dòng)</text>
+<rect x="817.9" y="672.0" width="40.4" height="13.2" fill="#fff"/><text x="838.0" y="682.3" font-size="11" text-anchor="middle">lỗi 2627</text>
+<rect x="508.2" y="703.2" width="203.4" height="26.4" fill="#fff"/><text x="609.9" y="713.5" font-size="11" text-anchor="middle">SqlException, LoiCSDL dịch thành câu tiếng</text><text x="609.9" y="726.7" font-size="11" text-anchor="middle">Việt</text>
+<rect x="309.4" y="747.6" width="165.9" height="13.2" fill="#fff"/><text x="392.4" y="757.9" font-size="11" text-anchor="middle">400 { loi: Tên danh mục đã tồn tại. }</text>
+<rect x="964.5" y="808.8" width="189.9" height="13.2" fill="#fff"/><text x="1059.4" y="819.1" font-size="11" text-anchor="middle">ghi(Thêm / Sửa danh mục, giá trị cũ, mới)</text>
+<rect x="578.6" y="840.0" width="62.6" height="13.2" fill="#fff"/><text x="609.9" y="850.3" font-size="11" text-anchor="middle">MaDanhMuc</text>
+<rect x="314.6" y="871.2" width="155.4" height="13.2" fill="#fff"/><text x="392.4" y="881.5" font-size="11" text-anchor="middle">200 { ma, thongBao }, tải lại bảng</text>
+</svg>

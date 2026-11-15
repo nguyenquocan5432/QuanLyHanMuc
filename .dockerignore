@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.vscode/
+.git/
+Tests/
+client/node_modules/
+wwwroot/
+_to_delete/
+_ban_cu_MVC/
+appsettings.json
+appsettings.*.json
+*.md
+docs/
+.env

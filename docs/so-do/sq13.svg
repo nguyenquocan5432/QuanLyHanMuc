@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1161" height="1119" viewBox="12.3 -12.0 1161.4 1119.2" font-family="Liberation Serif, Times New Roman, serif"><rect x="12.34375" y="-12" width="1161.4375" height="1119.2000000000003" fill="#fff"/>
+<line x1="60.0" y1="40" x2="60.0" y2="1095.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="60.0" cy="5.0" r="5.0" fill="#fff"/><line x1="60.0" y1="10.0" x2="60.0" y2="26.400000000000002"/><line x1="50.0" y1="15.0" x2="70.0" y2="15.0"/><line x1="60.0" y1="26.400000000000002" x2="50.0" y2="40"/><line x1="60.0" y1="26.400000000000002" x2="70.0" y2="40"/></g>
+<line x1="271.53125" y1="40" x2="271.53125" y2="1095.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="246.53125" y1="4" x2="246.53125" y2="36" stroke="#000" stroke-width="1"/><line x1="246.53125" y1="20" x2="255.53125" y2="20" stroke="#000" stroke-width="1"/><circle cx="275.53125" cy="20" r="16" fill="#fff" stroke="#000" stroke-width="1"/>
+<line x1="493.796875" y1="40" x2="493.796875" y2="1095.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="493.796875" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="499.796875,0 491.796875,5 499.796875,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="714.453125" y1="40" x2="714.453125" y2="1095.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="714.453125" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="720.453125,0 712.453125,5 720.453125,10" fill="none" stroke="#000" stroke-width="1"/>
+<line x1="939.0625" y1="40" x2="939.0625" y2="1095.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="939.0625" cy="19" r="17" fill="#fff" stroke="#000" stroke-width="1"/><line x1="922.0625" y1="38" x2="956.0625" y2="38" stroke="#000" stroke-width="1"/>
+<line x1="1114.671875" y1="40" x2="1114.671875" y2="1095.2000000000003" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="1114.671875" cy="22" r="17" fill="#fff" stroke="#000" stroke-width="1"/><polyline points="1120.671875,0 1112.671875,5 1120.671875,10" fill="none" stroke="#000" stroke-width="1"/>
+<rect x="247.53125" y="415.1999999999999" width="891.140625" height="404.8000000000001" fill="none" stroke="#000" stroke-width="1"/><polygon points="247.53125,415.1999999999999 297.53125,415.1999999999999 297.53125,427.1999999999999 289.53125,435.1999999999999 247.53125,435.1999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="477.796875" y="670.3999999999999" width="652.875" height="102.40000000000009" fill="none" stroke="#000" stroke-width="1"/><polygon points="477.796875,670.3999999999999 527.796875,670.3999999999999 527.796875,682.3999999999999 519.796875,690.3999999999999 477.796875,690.3999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="469.796875" y="962.8000000000002" width="668.875" height="71.20000000000005" fill="none" stroke="#000" stroke-width="1"/><polygon points="469.796875,962.8000000000002 519.796875,962.8000000000002 519.796875,974.8000000000002 511.796875,982.8000000000002 469.796875,982.8000000000002" fill="#fff" stroke="#000" stroke-width="1"/>
+<polyline points="60.0,115.2 266.5,115.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="266.5,115.2 256.5,111.2 256.5,119.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="276.5,146.4 488.8,146.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="488.8,146.4 478.8,142.4 478.8,150.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="498.8,177.6 709.5,177.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="709.5,177.6 699.5,173.6 699.5,181.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="709.5,208.8 498.8,208.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="508.8,213.8 498.8,208.8 508.8,203.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="488.8,240.0 276.5,240.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="286.5,245.0 276.5,240.0 286.5,235.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="60.0,284.4 266.5,284.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="266.5,284.4 256.5,280.4 256.5,288.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="276.5,315.6 488.8,315.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="488.8,315.6 478.8,311.6 478.8,319.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="498.8,346.8 709.5,346.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="709.5,346.8 699.5,342.8 699.5,350.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="719.5,391.2 934.1,391.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="934.1,391.2 924.1,387.2 924.1,395.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="934.1,464.4 719.5,464.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="729.5,469.4 719.5,464.4 729.5,459.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="709.5,495.6 498.8,495.6" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="508.8,500.6 498.8,495.6 508.8,490.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="488.8,526.8 276.5,526.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="286.5,531.8 276.5,526.8 286.5,521.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="944.1,591.2 974.1,591.2 974.1,613.2 944.1,613.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="944.1,613.2 954.1,617.2 954.1,609.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="709.5,646.4 498.8,646.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="508.8,651.4 498.8,646.4 508.8,641.4" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="498.8,719.6 1109.7,719.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1109.7,719.6 1099.7,715.6 1099.7,723.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="1109.7,750.8 498.8,750.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="508.8,755.8 498.8,750.8 508.8,745.8" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="488.8,798.0 276.5,798.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="286.5,803.0 276.5,798.0 286.5,793.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="60.0,845.2 266.5,845.2" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="266.5,845.2 256.5,841.2 256.5,849.2" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="276.5,876.4 488.8,876.4" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="488.8,876.4 478.8,872.4 478.8,880.4" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="498.8,907.6 709.5,907.6" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="709.5,907.6 699.5,903.6 699.5,911.6" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="719.5,938.8 934.1,938.8" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="934.1,938.8 924.1,934.8 924.1,942.8" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="498.8,1012.0 1109.7,1012.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1109.7,1012.0 1099.7,1008.0 1099.7,1016.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="488.8,1059.2 276.5,1059.2" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="286.5,1064.2 276.5,1059.2 286.5,1054.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="247.5,546.8 1138.7,546.8" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+
+
+<rect x="266.53125" y="109.2" width="10" height="138.79999999999995" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="488.796875" y="140.39999999999998" width="10" height="107.59999999999997" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="709.453125" y="171.59999999999997" width="10" height="45.19999999999999" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="266.53125" y="278.3999999999999" width="10" height="527.6000000000001" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="488.796875" y="309.5999999999999" width="10" height="496.4000000000001" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="709.453125" y="340.7999999999999" width="10" height="313.59999999999997" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="934.0625" y="385.1999999999999" width="10" height="235.99999999999994" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1109.671875" y="713.5999999999999" width="10" height="45.200000000000045" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="266.53125" y="839.2" width="10" height="228.00000000000023" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="488.796875" y="870.4000000000001" width="10" height="196.80000000000018" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="709.453125" y="901.6000000000001" width="10" height="45.200000000000045" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="934.0625" y="932.8000000000002" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1109.671875" y="1006.0000000000002" width="10" height="14.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="26.3" y="42.0" width="67.3" height="14.4" fill="#fff"/><text x="60.0" y="53.2" font-size="12" text-anchor="middle">Quản trị viên</text>
+<rect x="232.7" y="42.0" width="77.7" height="14.4" fill="#fff"/><text x="271.5" y="53.2" font-size="12" text-anchor="middle">NguoiDung.tsx</text>
+<rect x="438.8" y="42.0" width="110.0" height="14.4" fill="#fff"/><text x="493.8" y="53.2" font-size="12" text-anchor="middle">NguoiDungController</text>
+<rect x="674.3" y="42.0" width="80.2" height="14.4" fill="#fff"/><text x="714.5" y="53.2" font-size="12" text-anchor="middle">QuanTriService</text>
+<rect x="908.7" y="42.0" width="60.7" height="14.4" fill="#fff"/><text x="939.1" y="53.2" font-size="12" text-anchor="middle">NguoiDung</text>
+<rect x="1069.6" y="42.0" width="90.2" height="14.4" fill="#fff"/><text x="1114.7" y="53.2" font-size="12" text-anchor="middle">KeycloakQuanTri</text>
+<text x="252.5" y="428.9" font-size="11">alt</text>
+<rect x="303.53125" y="417.1999999999999" width="249.625" height="16.0" fill="#fff"/>
+<text x="307.5" y="428.6" font-size="10">[Lỗi nghiệp vụ (50044, 50046, 50047, trùng tên đăng nhập)]</text>
+<rect x="279.53125" y="549.7999999999998" width="41.875" height="16.0" fill="#fff"/>
+<text x="283.5" y="561.2" font-size="10">[Hợp lệ]</text>
+<text x="482.8" y="684.1" font-size="11">opt</text>
+<rect x="533.796875" y="672.3999999999999" width="65.203125" height="16.0" fill="#fff"/>
+<text x="537.8" y="683.8" font-size="10">[Chế độ Oidc]</text>
+<text x="474.8" y="976.5" font-size="11">opt</text>
+<rect x="525.796875" y="964.8000000000002" width="65.203125" height="16.0" fill="#fff"/>
+<text x="529.8" y="976.2" font-size="10">[Chế độ Oidc]</text>
+<rect x="112.9" y="100.0" width="100.7" height="13.2" fill="#fff"/><text x="163.3" y="110.3" font-size="11" text-anchor="middle">Mở trang Người dùng</text>
+<rect x="333.6" y="131.2" width="98.2" height="13.2" fill="#fff"/><text x="382.7" y="141.5" font-size="11" text-anchor="middle">GET /api/nguoi-dung</text>
+<rect x="503.8" y="162.4" width="200.7" height="13.2" fill="#fff"/><text x="604.1" y="172.7" font-size="11" text-anchor="middle">LayNguoiDung(), LayNguoiCapNganSach()</text>
+<rect x="580.3" y="193.6" width="47.7" height="13.2" fill="#fff"/><text x="604.1" y="203.9" font-size="11" text-anchor="middle">danh sách</text>
+<rect x="291.4" y="224.8" width="182.4" height="13.2" fill="#fff"/><text x="382.7" y="235.1" font-size="11" text-anchor="middle">JSON: người dùng, người cấp ngân sách</text>
+<rect x="67.5" y="256.0" width="191.5" height="26.4" fill="#fff"/><text x="163.3" y="266.3" font-size="11" text-anchor="middle">Nhập tên đăng nhập, họ tên, email, vai trò,</text><text x="163.3" y="279.5" font-size="11" text-anchor="middle">người cấp ngân sách, bấm Lưu</text>
+<rect x="330.8" y="300.4" width="103.7" height="13.2" fill="#fff"/><text x="382.7" y="310.7" font-size="11" text-anchor="middle">POST /api/nguoi-dung</text>
+<rect x="559.5" y="331.6" width="89.2" height="13.2" fill="#fff"/><text x="604.1" y="341.9" font-size="11" text-anchor="middle">LuuNguoiDung(...)</text>
+<rect x="724.5" y="362.8" width="204.6" height="26.4" fill="#fff"/><text x="826.8" y="373.1" font-size="11" text-anchor="middle">sp_LuuNguoiDung: kiểm tra vai trò QuanTri,</text><text x="826.8" y="386.3" font-size="11" text-anchor="middle">thêm mới thì băm mật khẩu mặc định</text>
+<rect x="818.9" y="449.2" width="15.6" height="13.2" fill="#fff"/><text x="826.8" y="459.5" font-size="11" text-anchor="middle">lỗi</text>
+<rect x="572.5" y="480.4" width="63.3" height="13.2" fill="#fff"/><text x="604.1" y="490.7" font-size="11" text-anchor="middle">SqlException</text>
+<rect x="357.2" y="511.6" width="50.9" height="13.2" fill="#fff"/><text x="382.7" y="521.9" font-size="11" text-anchor="middle">400 { loi }</text>
+<rect x="978.1" y="589.0" width="129.6" height="26.4" fill="#fff"/><text x="1042.9" y="599.3" font-size="11" text-anchor="middle">INSERT hoặc UPDATE, ghi</text><text x="1042.9" y="612.5" font-size="11" text-anchor="middle">NhatKyHeThong</text>
+<rect x="568.7" y="631.2" width="70.8" height="13.2" fill="#fff"/><text x="604.1" y="641.5" font-size="11" text-anchor="middle">mã người dùng</text>
+<rect x="691.4" y="704.4" width="225.6" height="13.2" fill="#fff"/><text x="804.2" y="714.7" font-size="11" text-anchor="middle">DongBoNguoiDung(ten, hoTen, email, hoatDong)</text>
+<rect x="709.9" y="735.6" width="188.7" height="13.2" fill="#fff"/><text x="804.2" y="745.9" font-size="11" text-anchor="middle">tạo hoặc cập nhật tài khoản trên Keycloak</text>
+<rect x="319.6" y="782.8" width="126.1" height="13.2" fill="#fff"/><text x="382.7" y="793.1" font-size="11" text-anchor="middle">200 { thongBao, canhBao }</text>
+<rect x="90.6" y="830.0" width="145.4" height="13.2" fill="#fff"/><text x="163.3" y="840.3" font-size="11" text-anchor="middle">Bấm Đặt lại mật khẩu, xác nhận</text>
+<rect x="281.5" y="861.2" width="202.3" height="13.2" fill="#fff"/><text x="382.7" y="871.5" font-size="11" text-anchor="middle">POST /api/nguoi-dung/{id}/dat-lai-mat-khau</text>
+<rect x="549.6" y="892.4" width="109.1" height="13.2" fill="#fff"/><text x="604.1" y="902.7" font-size="11" text-anchor="middle">DatLaiMatKhau(toi, id)</text>
+<rect x="724.6" y="923.6" width="204.3" height="13.2" fill="#fff"/><text x="826.8" y="933.9" font-size="11" text-anchor="middle">sp_DatLaiMatKhau(băm mật khẩu mặc định)</text>
+<rect x="736.6" y="996.8" width="135.3" height="13.2" fill="#fff"/><text x="804.2" y="1007.1" font-size="11" text-anchor="middle">DatLaiMatKhau(ten, 123456)</text>
+<rect x="341.6" y="1044.0" width="82.1" height="13.2" fill="#fff"/><text x="382.7" y="1054.3" font-size="11" text-anchor="middle">200 { thongBao }</text>
+</svg>

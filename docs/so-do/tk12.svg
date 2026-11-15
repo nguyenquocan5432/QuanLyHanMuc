@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1081" height="288" viewBox="-12.0 -12.0 1081.0 288.0" font-family="Liberation Serif, Times New Roman, serif"><rect x="-12" y="-12.0" width="1081" height="288.0" fill="#fff"/>
+<polyline points="196.0,48.5 266.0,48.5" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="256.0,43.5 266.0,48.5 256.0,53.5" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="490.0,48.5 560.0,48.5" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="550.0,43.5 560.0,48.5 550.0,53.5" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="693.5,90.5 693.5,167.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="698.5,157.0 693.5,167.0 688.5,157.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="798.0,202.0 848.0,202.0 848.0,202.0 937.0,202.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="927.0,197.0 937.0,202.0 927.0,207.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="378.0,97.0 378.0,167.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="383.0,157.0 378.0,167.0 373.0,157.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<rect x="0" y="6.5" width="196" height="84" fill="#fff" stroke="#000" stroke-width="1"/><line x1="0" y1="42.5" x2="196" y2="42.5" stroke="#000" stroke-width="1"/>
+<rect x="266" y="0.0" width="224" height="97" fill="#fff" stroke="#000" stroke-width="1"/><line x1="266" y1="36.0" x2="490" y2="36.0" stroke="#000" stroke-width="1"/>
+<rect x="560" y="6.5" width="267" height="84" fill="#fff" stroke="#000" stroke-width="1"/><line x1="560" y1="42.5" x2="827" y2="42.5" stroke="#000" stroke-width="1"/>
+<rect x="589.0" y="167" width="209" height="70" fill="#fff" stroke="#000" stroke-width="1"/><line x1="589.0" y1="203" x2="798.0" y2="203" stroke="#000" stroke-width="1"/>
+<rect x="286.0" y="167" width="184" height="97" fill="#fff" stroke="#000" stroke-width="1"/><line x1="286.0" y1="203" x2="470.0" y2="203" stroke="#000" stroke-width="1"/>
+<rect x="937" y="167.0" width="120" height="70" fill="#fff" stroke="#000" stroke-width="1"/><line x1="937" y1="203.0" x2="1057" y2="203.0" stroke="#000" stroke-width="1"/>
+<text x="98.0" y="21.6" font-size="11" text-anchor="middle">«boundary»</text><text x="98.0" y="34.8" font-size="11" text-anchor="middle" font-weight="bold">DangNhap.tsx, Phien.tsx</text>
+<text x="4.0" y="56.8" font-size="11">+ ô tên đăng nhập, mật khẩu (Local)</text><text x="4.0" y="70.0" font-size="11">+ nút Đăng nhập qua Keycloak (Oidc)</text><text x="4.0" y="83.2" font-size="11">+ thông báo lỗi</text>
+<text x="378.0" y="15.1" font-size="11" text-anchor="middle">«control»</text><text x="378.0" y="28.3" font-size="11" text-anchor="middle" font-weight="bold">PhienController</text>
+<text x="270.0" y="50.3" font-size="11">+ Phien(): IActionResult</text><text x="270.0" y="63.5" font-size="11">+ DangNhap(y: DangNhapYeuCau): Task</text><text x="270.0" y="76.7" font-size="11">+ DangNhapOidc(returnUrl): IActionResult</text><text x="270.0" y="89.9" font-size="11">+ DangXuat(): Task</text>
+<text x="693.5" y="21.6" font-size="11" text-anchor="middle">«control»</text><text x="693.5" y="34.8" font-size="11" text-anchor="middle" font-weight="bold">TaiKhoanService</text>
+<text x="564.0" y="56.8" font-size="11">+ DangNhap(ten, matKhau, out nguoiDung): string</text><text x="564.0" y="70.0" font-size="11">+ LayTheoTenDangNhap(ten, out nguoiDung): string</text><text x="564.0" y="83.2" font-size="11">+ BamMatKhau(matKhau): string</text>
+<text x="693.5" y="182.1" font-size="11" text-anchor="middle">«data access»</text><text x="693.5" y="195.3" font-size="11" text-anchor="middle" font-weight="bold">KetNoi</text>
+<text x="593.0" y="217.3" font-size="11">+ GoiProcedure(ten, thamSo): DataTable</text><text x="593.0" y="230.5" font-size="11">+ TruyVan(sql, thamSo): DataTable</text>
+<text x="378.0" y="182.1" font-size="11" text-anchor="middle">«tiện ích»</text><text x="378.0" y="195.3" font-size="11" text-anchor="middle" font-weight="bold">NguoiDungHienTai</text>
+<text x="290.0" y="217.3" font-size="11">+ TaoClaims(nd): List&lt;Claim&gt;</text><text x="290.0" y="230.5" font-size="11">+ MaNguoiDung(user): int</text><text x="290.0" y="243.7" font-size="11">+ DuocNhapGiaoDich(user): bool</text><text x="290.0" y="256.9" font-size="11">+ DuocQuanLyHanMuc(user): bool</text>
+<text x="997.0" y="182.1" font-size="11" text-anchor="middle">«entity»</text><text x="997.0" y="195.3" font-size="11" text-anchor="middle" font-weight="bold">NguoiDung</text>
+<text x="941.0" y="217.3" font-size="11">+ dangNhap()</text><text x="941.0" y="230.5" font-size="11">+ bamMatKhau()</text>
+<rect x="213.6" y="32.5" width="34.8" height="12.0" fill="#fff"/><text x="231.0" y="41.9" font-size="10" text-anchor="middle">gọi API</text>
+<rect x="387.5" y="126.0" width="40.9" height="12.0" fill="#fff"/><text x="408.0" y="135.4" font-size="10" text-anchor="middle">tạo claim</text>
+</svg>

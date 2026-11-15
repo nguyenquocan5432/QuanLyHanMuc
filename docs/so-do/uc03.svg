@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="895" height="280" viewBox="-22.6 -12.0 894.6 280.0" font-family="Liberation Serif, Times New Roman, serif"><rect x="-22.578125" y="-12" width="894.578125" height="280" fill="#fff"/>
+<polyline points="55.0,60.0 221.2,133.5" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="55.0,180.0 221.2,122.5" fill="none" stroke="#000" stroke-width="1"/>
+
+
+<polyline points="388.8,102.6 620.0,23.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="608.9,21.5 620.0,23.0 612.2,31.0" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="416.4,118.6 620.0,93.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="609.5,89.3 620.0,93.0 610.7,99.2" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="620.0,163.0 416.4,137.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="425.7,143.6 416.4,137.4 426.9,133.6" fill="none" stroke="#000" stroke-width="1"/>
+
+<polyline points="620.0,233.0 388.8,153.4" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polyline points="396.7,161.4 388.8,153.4 399.9,151.9" fill="none" stroke="#000" stroke-width="1"/>
+
+<ellipse cx="320.0" cy="128.0" rx="100.0" ry="35.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="40.0" cy="45.5" r="7.5" fill="#fff"/><line x1="40.0" y1="53.0" x2="40.0" y2="77.6"/><line x1="25" y1="60.5" x2="55" y2="60.5"/><line x1="40.0" y1="77.6" x2="25" y2="98.0"/><line x1="40.0" y1="77.6" x2="55" y2="98.0"/></g>
+<g fill="none" stroke="#000" stroke-width="1"><circle cx="40.0" cy="165.5" r="7.5" fill="#fff"/><line x1="40.0" y1="173.0" x2="40.0" y2="197.6"/><line x1="25" y1="180.5" x2="55" y2="180.5"/><line x1="40.0" y1="197.6" x2="25" y2="218.0"/><line x1="40.0" y1="197.6" x2="55" y2="218.0"/></g>
+<ellipse cx="740.0" cy="23.0" rx="120.0" ry="23.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<ellipse cx="740.0" cy="93.0" rx="120.0" ry="23.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<ellipse cx="740.0" cy="163.0" rx="120.0" ry="23.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<ellipse cx="740.0" cy="233.0" rx="120.0" ry="23.0" fill="#fff" stroke="#000" stroke-width="1"/>
+<text x="320.0" y="124.8" font-size="12" text-anchor="middle">UC03. Khóa / mở khóa hạn</text><text x="320.0" y="139.2" font-size="12" text-anchor="middle">mức</text>
+<text x="40.0" y="113.2" font-size="12" text-anchor="middle">Người cấp ngân sách</text>
+<text x="40.0" y="233.2" font-size="12" text-anchor="middle">Sinh viên tự quản lý</text>
+<text x="740.0" y="26.7" font-size="11" text-anchor="middle">Chọn hạn mức trong danh sách</text>
+<text x="740.0" y="96.7" font-size="11" text-anchor="middle">Ghi nhật ký hệ thống</text>
+<text x="740.0" y="166.7" font-size="11" text-anchor="middle">Khóa hạn mức</text>
+<text x="740.0" y="236.7" font-size="11" text-anchor="middle">Mở khóa và tính lại trạng thái</text>
+<rect x="475.8" y="59.2" width="43.4" height="12.0" fill="#fff"/><text x="497.5" y="68.6" font-size="10" text-anchor="middle">«include»</text>
+<rect x="490.4" y="100.6" width="43.4" height="12.0" fill="#fff"/><text x="512.1" y="110.0" font-size="10" text-anchor="middle">«include»</text>
+<rect x="470.1" y="137.4" width="84.0" height="24.0" fill="#fff"/><text x="512.1" y="146.8" font-size="10" text-anchor="middle">«extend»</text><text x="512.1" y="158.8" font-size="10" text-anchor="middle" font-style="italic">[hạn mức đang mở]</text>
+<rect x="452.1" y="178.8" width="90.8" height="24.0" fill="#fff"/><text x="497.5" y="188.2" font-size="10" text-anchor="middle">«extend»</text><text x="497.5" y="200.2" font-size="10" text-anchor="middle" font-style="italic">[hạn mức đang khóa]</text>
+</svg>

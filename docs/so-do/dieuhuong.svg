@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1346" height="408" viewBox="-12.0 -12.0 1346.0 408.0" font-family="Liberation Serif, Times New Roman, serif"><rect x="-12" y="-12" width="1346" height="408" fill="#fff"/>
+<rect x="0" y="200" width="162" height="80" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="192" y="200" width="454" height="80" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="676" y="200" width="308" height="160" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="1014" y="200" width="308" height="80" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="4 3"/>
+<polyline points="586.0,20.0 671.0,20.0 671.0,90.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="671.0,90.0 675.0,80.0 667.0,80.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="746.0,110.0 886.0,110.0" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="6 4"/>
+<polygon points="886.0,110.0 876.0,106.0 876.0,114.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 81.0,171.0 81.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="81.0,228.0 85.0,218.0 77.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 273.0,171.0 273.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="273.0,228.0 277.0,218.0 269.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 419.0,171.0 419.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="419.0,228.0 423.0,218.0 415.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 565.0,171.0 565.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="565.0,228.0 569.0,218.0 561.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 757.0,171.0 757.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="757.0,228.0 761.0,218.0 753.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 903.0,171.0 903.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="903.0,228.0 907.0,218.0 899.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 1095.0,171.0 1095.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1095.0,228.0 1099.0,218.0 1091.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="671.0,130.0 671.0,171.0 1241.0,171.0 1241.0,228.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="1241.0,228.0 1245.0,218.0 1237.0,218.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="742.0,268.0 742.0,304.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="742.0,304.0 746.0,294.0 738.0,294.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="772.0,304.0 772.0,268.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="772.0,268.0 768.0,278.0 776.0,278.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<polyline points="273.0,268.0 273.0,384.0 903.0,384.0 903.0,344.0" fill="none" stroke="#000" stroke-width="1"/>
+<polygon points="903.0,344.0 899.0,354.0 907.0,354.0" fill="#000" stroke="#000" stroke-width="1"/>
+
+<rect x="16" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="208" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="354" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="500" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="692" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="838" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1030" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="1176" y="228" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="456.0" y="0" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="596.0" y="90" width="150" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="886.0" y="90" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="692" y="304" width="130" height="44" fill="#fff" stroke="#000" stroke-width="1"/>
+<rect x="838" y="304" width="130" height="40" fill="#fff" stroke="#000" stroke-width="1"/>
+<text x="6.0" y="215.2" font-size="12" font-weight="bold">Sinh viên</text>
+<text x="81.0" y="251.7" font-size="11" text-anchor="middle">Nhập giao dịch</text>
+<text x="198.0" y="215.2" font-size="12" font-weight="bold">Sinh viên, người cấp ngân sách</text>
+<text x="273.0" y="251.7" font-size="11" text-anchor="middle">Lịch sử giao dịch</text>
+<text x="419.0" y="245.1" font-size="11" text-anchor="middle">Báo cáo (chi tiêu, vi</text><text x="419.0" y="258.3" font-size="11" text-anchor="middle">phạm)</text>
+<text x="565.0" y="251.7" font-size="11" text-anchor="middle">Thông báo</text>
+<text x="682.0" y="215.2" font-size="12" font-weight="bold">Người quản lý hạn mức</text>
+<text x="757.0" y="251.7" font-size="11" text-anchor="middle">Danh sách hạn mức</text>
+<text x="903.0" y="251.7" font-size="11" text-anchor="middle">Duyệt ngoại lệ</text>
+<text x="1020.0" y="215.2" font-size="12" font-weight="bold">Quản trị viên</text>
+<text x="1095.0" y="251.7" font-size="11" text-anchor="middle">Danh mục chi tiêu</text>
+<text x="1241.0" y="251.7" font-size="11" text-anchor="middle">Người dùng</text>
+<text x="521.0" y="23.7" font-size="11" text-anchor="middle">Đăng nhập</text>
+<text x="671.0" y="113.7" font-size="11" text-anchor="middle">Trang chủ (theo vai trò)</text>
+<text x="951.0" y="113.7" font-size="11" text-anchor="middle">Không có quyền truy cập</text>
+<text x="757.0" y="323.1" font-size="11" text-anchor="middle">Thiết lập, điều chỉnh hạn</text><text x="757.0" y="336.3" font-size="11" text-anchor="middle">mức</text>
+<text x="903.0" y="327.7" font-size="11" text-anchor="middle">Hủy giao dịch</text>
+<rect x="594.6" y="4.0" width="67.9" height="12.0" fill="#fff"/><text x="628.5" y="13.4" font-size="10" text-anchor="middle">đăng nhập đúng</text>
+<rect x="794.3" y="94.0" width="43.4" height="12.0" fill="#fff"/><text x="816.0" y="103.4" font-size="10" text-anchor="middle">sai vai trò</text>
+<rect x="569.8" y="369.0" width="36.5" height="12.0" fill="#fff"/><text x="588.0" y="378.4" font-size="10" text-anchor="middle">nút Hủy</text>
+</svg>
