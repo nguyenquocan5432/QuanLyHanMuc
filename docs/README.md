@@ -6,7 +6,7 @@ Thư mục này chứa hình ảnh, sơ đồ và bảng biểu dùng trong báo
 |---|---|
 | `bao-cao/` | Báo cáo cuối kỳ (.docx) và slide thuyết trình (.pptx) |
 | `so-do/` | Các sơ đồ trong báo cáo, mỗi sơ đồ có bản `.svg` (gốc) và `.png` |
-| `giao-dien/` | Ảnh các màn hình của ứng dụng |
+| `giao-dien/` | Ảnh chụp 15 màn hình khi chạy ứng dụng, đặt tên theo số hình trong báo cáo (Hình 6.2 đến 6.16) |
 | `chay-thu/` | Ảnh chụp khi chạy thật trên máy: Docker Desktop, trang chủ, trang không có quyền, kết quả `dotnet test` |
 | `bang-bieu/` | 78 bảng của báo cáo, chép sang Markdown theo từng chương, giữ đúng số thứ tự trong báo cáo |
 
